@@ -8,12 +8,15 @@ class answerHandle(web.RequestHandler):
 
         text =json.loads(self.get_argument('problem'))
         
-
+        course_name=self.get_argument('coursename')
+        #course_name = ' '
+        
+        print(course_name)
         print(text)
 
         #print(main.handleData(text))
 
-        self.write('success_jsonpCallback('+json.dumps(main.handleData(text))+')')
+        self.write('success_jsonpCallback('+json.dumps(main.handleData(text,course_name))+')')
 
 application = web.Application([
     (r"/getAnswer",answerHandle),
