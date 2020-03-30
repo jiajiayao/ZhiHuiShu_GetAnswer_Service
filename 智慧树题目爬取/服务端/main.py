@@ -18,11 +18,14 @@ def getAnswer(question):
         'question':question,
     }
 
-    res = requests.get(config.Set['targetUrl'], params=params_url, headers=config.Set['headers_url'], timeout=10)
+    try:
+        res = requests.get(config.Set['targetUrl'], params=params_url, headers=config.Set['headers_url'], timeout=1000)
+        #time.sleep(random.random() * 0.1)
+        res=res.json()
+    except:
+        res = "{'question': '', 'answer': '无答案，可点击再次获取答案'}"
     
-    time.sleep(random.random() * 0.1)
-
-    res=res.json()
+    
     
     print(res)
 
