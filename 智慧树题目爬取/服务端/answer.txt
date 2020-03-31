@@ -9,3 +9,4 @@
 {'success': True, 'problem': '资本原始积累的实质是（ ）', 'answer': '通过暴力手段迫使劳动者与生产资料分离，把大量财富集中在资本家手中', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
 {'success': True, 'problem': '资本主义萌芽于（）', 'answer': '14世纪末15世纪初', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
 {'success': False, 'message': '参数不完整', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': False, 'message': '参数不完整', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
