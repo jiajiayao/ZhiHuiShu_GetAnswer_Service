@@ -41,7 +41,7 @@ def getAnswer(question, course_name):
             file_handle.write(result2txt)     # 写入
             file_handle.write('\n')  # 有时放在循环里面需要自动转行，不然会覆盖上一条数据
     except:
-        res = {"question":"233","answer":"无答案，可点击再次获取答案"}
+        res = {"question":"233","answer":"搜题接口异常请到issue反馈，或者稍后在尝试搜题"}
     print(res)
 
     return res
