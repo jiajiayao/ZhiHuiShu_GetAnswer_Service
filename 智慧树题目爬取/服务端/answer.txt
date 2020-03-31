@@ -1,0 +1,11 @@
+{'success': True, 'problem': '在揭示资本主义工资的问题上，首先要区分（ ）', 'answer': '劳动和劳动力', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '在商品经济中，形成价值的抽象劳动的支出必须借助于：', 'answer': '具体劳动', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '在商品生产中，生产资料的价值借助于生产者的（ ）', 'answer': '具体劳动而转移到新产品中去', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '商品的二因素是（ ）。', 'answer': 'B. 价值\x01A. 使用价值', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '解决商品的使用价值和价值矛盾的关键是（ ）', 'answer': '商品交换的实现', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '马克思指出：“如果物没有用，那么其中包含的劳动也就没有用，不能算作劳动，因此不能形成价值。”这段话说明（ ）', 'answer': '价值的存在以物的有用性为前提', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '商品的本质属性是（）。', 'answer': '价值', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '社会经济的两种基本形态是：（ ）。', 'answer': '自然经济和商品经济', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '资本原始积累的实质是（ ）', 'answer': '通过暴力手段迫使劳动者与生产资料分离，把大量财富集中在资本家手中', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '资本主义萌芽于（）', 'answer': '14世纪末15世纪初', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': False, 'message': '参数不完整', 'course_name': '马克思主义基本原理概论（上海财经大学）'}

@@ -5,7 +5,8 @@ Set = {
     'port': '8080',
 
     #题库网站
-    'targetUrl': 'http://www.wangketiku.com/getquestion.php',
+     #'targetUrl': 'http://www.wangketiku.com/getquestion.php',
+     'targetUrl':'https://api.han8.net/api/352805399.php',
 
     #header
     'headers_url':{'User-Agent':

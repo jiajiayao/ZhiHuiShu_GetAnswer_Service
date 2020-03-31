@@ -11,8 +11,8 @@ class answerHandle(web.RequestHandler):
         course_name=self.get_argument('coursename')
         #course_name = ' '
         
-        print(course_name)
-        print(text)
+        #print(course_name)
+        #print(text)
 
         #print(main.handleData(text))
 
