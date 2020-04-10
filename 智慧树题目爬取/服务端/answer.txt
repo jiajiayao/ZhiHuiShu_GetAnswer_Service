@@ -10,3 +10,977 @@
 {'success': True, 'problem': '资本主义萌芽于（）', 'answer': '14世纪末15世纪初', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
 {'success': False, 'message': '参数不完整', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
 {'success': False, 'message': '参数不完整', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '在揭示资本主义工资的问题上，首先要区分（ ）', 'answer': '劳动和劳动力', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '在商品经济中，形成价值的抽象劳动的支出必须借助于：', 'answer': '具体劳动', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '在商品生产中，生产资料的价值借助于生产者的（ ）', 'answer': '具体劳动而转移到新产品中去', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '商品的二因素是（ ）。', 'answer': 'B. 价值\x01A. 使用价值', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '解决商品的使用价值和价值矛盾的关键是（ ）', 'answer': '商品交换的实现', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '马克思指出：“如果物没有用，那么其中包含的劳动也就没有用，不能算作劳动，因此不能形成价值。”这段话说明（ ）', 'answer': '价值的存在以物的有用性为前提', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '商品的本质属性是（）。', 'answer': '价值', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '社会经济的两种基本形态是：（ ）。', 'answer': '自然经济和商品经济', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '资本原始积累的实质是（ ）', 'answer': '通过暴力手段迫使劳动者与生产资料分离，把大量财富集中在资本家手中', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '资本主义萌芽于（）', 'answer': '14世纪末15世纪初', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': False, 'message': '参数不完整', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '连续型随机变量的密度函数是唯一确定的。', 'answer': '错', 'id': '1', 'course_name': '概率论与数理统计'}
+{'success': True, 'problem': '设A,B为两个事件，若A与B独立则A与B互不相容。（）', 'answer': '错', 'id': '1', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '概率论与数理统计'}
+{'success': True, 'problem': '设A、B为两个随机事件，则AB表示（ ）', 'answer': 'A与B同时发生', 'id': '1', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': True, 'problem': '连续型随机变量的密度函数是唯一确定的。', 'answer': '错', 'id': '1', 'course_name': '概率论与数理统计'}
+{'success': True, 'problem': '设一本书各页的印刷错误个数X服从泊松分布，已知有一个和两个印刷错误的概率相同，则随意抽查的4页中无印刷错误的概率为 .4c14ea21ee4befac9b272dbf9daca1e4', 'answer': '对', 'id': '1', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': True, 'problem': '下列函数中，可以做随机变量的分布函数的是', 'answer': '3', 'id': '1', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': True, 'problem': '指数分布具有可加性。', 'answer': '错', 'id': '1', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': False, 'message': '参数不完整', 'course_name': '概率论与数理统计'}
+{'success': True, 'problem': '《庄子》继承老子“天道自然无为”的思想。（）', 'answer': '√', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '“民无信不立。足食足兵,民信之矣”是()的名言', 'answer': '孔子', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '马铃薯于明朝中后期传入我国', 'answer': '对', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '《饮膳正要》撰于', 'answer': '元代', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '我国宴席采取分食制始自', 'answer': '唐代', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '黄瓜在两汉时期由西域传入我国', 'answer': '对', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '古人一日而两餐，第二顿饭称之为“飨”，在申时进餐', 'answer': '对', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '《周礼·天官·冢宰》记载的四种不同职责的医官中，地位最为尊崇的是', 'answer': '食医', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '世界三大菜系包括（ ）。', 'answer': '中国菜\x01土耳其菜\x01法国菜', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '究其本意，用手直接抓吃粗食称之为', 'answer': '饭', 'id': '1', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': False, 'message': '参数不完整', 'course_name': '中国饮食文化与健康（山东联盟）'}
+{'success': True, 'problem': '螳螂拳的三大流派是：七星（螳螂）、六合（螳螂）、梅花（螳螂）。', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '仆步动作要点：两脚左右开立，右腿屈膝全蹲，大小腿靠紧，臀部接近小腿，右脚全脚着地，脚尖和膝关节外展，左腿挺直平仆，脚尖内扣，全脚着地，两手抱拳于腰间，两眼平视前方。( )', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '跆拳道通过品势、搏击和功力检验等运动形式使练习者达到增强体质、培养坚韧不拔意志品质的目的。', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '太极拳的主要流派有：陈式、杨氏、李式、武式、孙式。', 'answer': '错', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '二十四式简化太极拳是以陈式太极拳为基础。', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '太极拳运动的特点是体松心静、柔和缓慢、连绵不断、刚健有力、协调完整。', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': False, 'message': '参数不完整', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '跳远技术由助跑,起跳,腾空和落地四个部分组成.', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '跳远属于径赛项目', 'answer': '错', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '100米跑终点冲刺时应该跳过终点线以缩短跑的时间,提高成绩.', 'answer': '错', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': False, 'message': '参数不完整', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '帆船的舵的作用是控制船的航向', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '帆船的舵都安装在船头', 'answer': '错', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': 'OP级帆船船长2.307米', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '顺风转向应注意过帆时机和安全', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': 'OP级帆船属于稳向板船', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '帆船从构造上可以分为三类。', 'answer': '对', 'id': '1', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': False, 'message': '参数不完整', 'course_name': '【资源】大学体育在线视频系列课程(山东联盟)'}
+{'success': True, 'problem': '在揭示资本主义工资的问题上，首先要区分（ ）', 'answer': '劳动和劳动力', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '在商品经济中，形成价值的抽象劳动的支出必须借助于：', 'answer': '具体劳动', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '在商品生产中，生产资料的价值借助于生产者的（ ）', 'answer': '具体劳动而转移到新产品中去', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '商品的二因素是（ ）。', 'answer': 'B. 价值\x01A. 使用价值', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '解决商品的使用价值和价值矛盾的关键是（ ）', 'answer': '商品交换的实现', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '马克思指出：“如果物没有用，那么其中包含的劳动也就没有用，不能算作劳动，因此不能形成价值。”这段话说明（ ）', 'answer': '价值的存在以物的有用性为前提', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '商品的本质属性是（）。', 'answer': '价值', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '社会经济的两种基本形态是：（ ）。', 'answer': '自然经济和商品经济', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '资本原始积累的实质是（ ）', 'answer': '通过暴力手段迫使劳动者与生产资料分离，把大量财富集中在资本家手中', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '资本主义萌芽于（）', 'answer': '14世纪末15世纪初', 'id': '1', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': False, 'message': '参数不完整', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': False, 'message': '参数不完整', 'course_name': '马克思主义基本原理概论（上海财经大学）'}
+{'success': True, 'problem': '以下哪些属于由戈尔曼提出的有关情绪智力的能力（）。', 'answer': '自我意志\x01自我管理\x01自我激励\x01社交能力', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '根据情绪发生的强烈程度、持续时间和紧张程度，可分为哪几种（）状态。', 'answer': '激情\x01心境\x01应激', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '20:80定律是对（）进行积极管理应遵循的定律。', 'answer': '时间管理', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '美国学者潘迪（pondy）提出的冲突五阶段模式中，属于第一阶段的是（）。', 'answer': '冲突潜伏阶段', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '( )是出乎意外的紧迫情况所引起的急速而高度紧张的情绪状态。', 'answer': '应激', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': False, 'message': '参数不完整', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '美国学者潘迪（pondy）提出的冲突五阶段模式中，属于第一阶段的是（）。', 'answer': '冲突潜伏阶段', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '( )是出乎意外的紧迫情况所引起的急速而高度紧张的情绪状态。', 'answer': '应激', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': False, 'message': '参数不完整', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '以下哪些属于由戈尔曼提出的有关情绪智力的能力（）。', 'answer': '自我意志\x01自我管理\x01自我激励\x01社交能力', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '根据情绪发生的强烈程度、持续时间和紧张程度，可分为哪几种（）状态。', 'answer': '激情\x01心境\x01应激', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '20:80定律是对（）进行积极管理应遵循的定律。', 'answer': '时间管理', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '美国学者潘迪（pondy）提出的冲突五阶段模式中，属于第一阶段的是（）。', 'answer': '冲突潜伏阶段', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '( )是出乎意外的紧迫情况所引起的急速而高度紧张的情绪状态。', 'answer': '应激', 'id': '1', 'course_name': '通用管理知识概论'}
+{'success': False, 'message': '参数不完整', 'course_name': '通用管理知识概论'}
+{'success': False, 'message': '参数不完整', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '20:80定律是对（）进行积极管理应遵循的定律。', 'answer': None, 'id': '4', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '美国学者潘迪（pondy）提出的冲突五阶段模式中，属于第一阶段的是（）。', 'answer': None, 'id': '4', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '( )是出乎意外的紧迫情况所引起的急速而高度紧张的情绪状态。', 'answer': None, 'id': '4', 'course_name': '通用管理知识概论'}
+{'success': False, 'message': '参数不完整', 'course_name': '通用管理知识概论'}
+{'success': True, 'problem': '创业教育应该加强与社会的联系，培养学生发现问题、提出问题、分析问题和解决问题的能力，注重专业教育、通识教育与创业教育的融合，最终培养复合型人才。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '梁思成的教育思想为理工与人文结合，知识要博而精；设计与实施并重，培养富有创造力的实用人才。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '1999年，联合国教科文组织发表的21世纪的高等教育：展望与行动世界宣言》提出:“必须将创业技能和创业精神作为高等教育的基本目标。”', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '（）认为职业教育要做到手脑并用、做学合一、理论与实际并行、知识与技能并重，这些原则和做法为我国创业教育的目的和实践寞定了基础。', 'answer': '黄炎培', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '美国的创新创业教育起步早，并且以大学为中心，围绕知名大学形成了具有大学特色的创新创业教育模式。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '在英国，总体来说，创业的门槛更低、政策更灵活、市场更透明。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创新是一种智力特征，与人格特征无关。', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创新是人的本性，人人都具有创新的潜能与倾向。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创新能力包括人的（ ）。', 'answer': '创新感知能力\x01创新思维能力\x01创新想象能力', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创新教育的内涵包括（ ）', 'answer': '创新精神\x01创新思维与能力\x01创新人格\x01创造性', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业思维五大原则的第二条原则是（ ）', 'answer': '可承受损失原则', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': 'VUCAH时代，它充满着易变性、不确定性、复杂性、模糊性及超链接（ ）让我们的社会快速发展。', 'answer': '超链接', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '()是站在别人的立场、凭直觉感知他人的感受，即设身处地地用他们眼光来看待问题，体会他们的感受。', 'answer': '共情力', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '( )是设计思维的关键来源之一。', 'answer': '洞察力', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '( )是一种运用设计师的敏感性与方法，以一种技术上可行与商业上可行的方式解决问题以满足人们需要的方法论。', 'answer': '设计思维', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创新的第一步是：（）', 'answer': '提出好的问题', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '()是在创新活动中将起着突破性作用的思维活动，指的是按照辩证逻辑的规律，即唯物辩证法的规律进行的思维活动。', 'answer': '辩证思维', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '( )又称集中思维，它的思维方向总是指向问题中心，是一种寻求唯一答案的思维。', 'answer': '聚敛思维', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下方法中有利于提升洞察力形成创意的是（ ）。', 'answer': '创意自觉\x01像旅行者那样思考\x01放松心灵\x01理解终端用户\x01实地调研', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '在创新与创意章节中对创新提炼的三层含义分别是 （ ）', 'answer': '更新\x01创造新的东西\x01改变', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业思维五大原则的第二条原则是（ ）', 'answer': '可承受损失原则', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': 'VUCAH时代，它充满着易变性、不确定性、复杂性、模糊性及超链接（ ）让我们的社会快速发展。', 'answer': '超链接', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '()是站在别人的立场、凭直觉感知他人的感受，即设身处地地用他们眼光来看待问题，体会他们的感受。', 'answer': '共情力', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '( )是设计思维的关键来源之一。', 'answer': '洞察力', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '( )是一种运用设计师的敏感性与方法，以一种技术上可行与商业上可行的方式解决问题以满足人们需要的方法论。', 'answer': '设计思维', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创新的第一步是：（）', 'answer': '提出好的问题', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '()是在创新活动中将起着突破性作用的思维活动，指的是按照辩证逻辑的规律，即唯物辩证法的规律进行的思维活动。', 'answer': '辩证思维', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '( )又称集中思维，它的思维方向总是指向问题中心，是一种寻求唯一答案的思维。', 'answer': '聚敛思维', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下方法中有利于提升洞察力形成创意的是（ ）。', 'answer': '创意自觉\x01像旅行者那样思考\x01放松心灵\x01理解终端用户\x01实地调研', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '在创新与创意章节中对创新提炼的三层含义分别是 （ ）', 'answer': '更新\x01创造新的东西\x01改变', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业团队的社会责任包括哪些？', 'answer': '经济\x01法律\x01公益', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业团队的管理策略有哪些？', 'answer': '目标\x01定位\x01计划\x01职权\x01人员', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业团队的组建原则包括（ ）', 'answer': '互补性原则\x01开放性原则\x01一致性原则', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '微软的比尔·盖茨的团队属于形状创业团队。', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业团队类型有星状创业团队_', 'answer': '正确', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业团队有哪几个要素组成？', 'answer': '目标\x01人员\x01定位\x01权限\x01计划', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '风险包含哪几类？', 'answer': '盲目创业\x01眼高手低\x01管理不善', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '想要创业，只要制定了目标即可。', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业者基本素质包括（）。', 'answer': 'ABC', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '有了创业必备知识就一定能创业成功。', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业资源整合过程包括哪些环节？', 'answer': '创业资源识别#创业资源获取#创业资源配置#创业资源利用', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '下面哪种不属于创业资源获取的非市场交易途径？', 'answer': '购买', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '大学生创业资源的有哪些？', 'answer': '政府资源\x01高校资源\x01企业资源\x01社会资源\x01校友资源', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '技术资源、社会资源和组织资源属于有形资源。', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业者需要全面地对市场、竞争对手和社会环境作评价。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业机会识别的方法有哪些？', 'answer': '调查研究法;SWOT分析法;问题分析法;访谈建议法', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业机会识别的过程哪五个步骤？', 'answer': '准备;孵化;洞察;评估;陈述', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '影响创业机会识别的因素', 'answer': 'ABD', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业机会的来源有（）', 'answer': '消费者需求#现有产品存在的缺陷或问题#技术进步的结果#社会发展趋势', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业机会的构成要素有哪些？', 'answer': '需求;创意;资源;团队', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下属于商业模式的三要素的是？', 'answer': '价值\x01顾客\x01利润', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下哪几项是一个好的商业模式的做法？', 'answer': '不断调整#研究同行#研究对手', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '关于商业模式中的产品独特价值，下列哪些阐述是正确的', 'answer': '从用户的角度阐述;越具体越好;能被体验到', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '关于商业模式描述正确的是？', 'answer': '商业模式设计的目的是为了最大化企业价值#商业模式是连接顾客价值与企业价值的桥梁#商业模式最终总是能够体现为获得资本和产品市场认同的独特企业价值#商业模式是利益相关者的交易结构', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '一切商业机会的核心来源于', 'answer': '别人想要什么', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '精益创业画布分析的起点是：', 'answer': '用户细分', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '市场细分存在的客观依据是（ )', 'answer': '消费偏好', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '市场营销的核心——', 'answer': '交换', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '商业模式的三类风险中不包括下面哪一项？', 'answer': '用人风险', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '（ ）是商业模式设计和优化的核心问题。', 'answer': '价值获取', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '企业为满足市场需要并获得利润而进行的一切市场有关的经营和销售活动，它包括市场调查与预测，营销环境分析，消费者行为研究，目标市场选择等一系列与市场有关的企业活动，这种活动称之为（ ）。', 'answer': '市场营销', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '任何产品的“定价”都是依照于创业者的个人理念而制定，而消费者拥有的仅仅是选择权', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '一个新产品进入到市场，为了换取好的口碑，所凭借的是（）', 'answer': '服务#质量', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下哪些属于能够寻找到目标客户的营销渠道？', 'answer': '门户网站#微博#街头传单#访谈', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业者从识别顾客入手，根据顾客需求提供产品和服务，是创业者的（ ）特质。', 'answer': '顾客导向', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业活动是机会导向的活动，需要把握机会和超前行动。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '下列哪些陈述属于创业营销的特点？（ ）', 'answer': '亲近顾客、创新\x01风险评估、资源利用\x01价值创造\x01先发制人、执着于机会', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '对创业者来讲，新产品指的是（ ）', 'answer': '上述所有产品', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '对创业者来讲，一定要开发世界上从来没有的全新产品才能成功。', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '用户开发四步法的正确顺序是：', 'answer': '用户探索、用户验证、用户生成、公司运营', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '撰写商业计划书准备融资时，为了方便不同类型的阅读者，最好准备两种以上的版本。（ ）', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '渗透定价策略，这是指产品定价比其成本高出许多，即高定价策略。（）', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业初期的商业计划书要包含详尽的组织管理计划、企业整体发展规划、营销计划、财务计划等等。（）', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '参加各类创新创业大赛，提交商业计划书是最基本的参赛要求。（ ）', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '商业计划书对财务规划的最低要求，包括（ ）', 'answer': '损益表\x01资产负债表\x01预测的现金流量表', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '构成了商业计划书的基本要素包含（ ）。', 'answer': '产品（服务）\x01市场调研、竞争对手\x01商业模式、创业团队\x01行动方针', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '商业计划书中战略规划常用的分析模型是（ ）。', 'answer': 'SWOT模型', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下哪个选项不是商业计划书常见的新产品制定价格策略（ ）。', 'answer': '固定定价策略', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '商业计划书的功能与价值不包括以下哪一项（ ）。', 'answer': '公司战略发展的需要', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '商业计划书最早出现在（ ），其最初的主要意图是获得融资。', 'answer': '美国', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '什么类型的创业项目，不适合寻求风险投资？', 'answer': '自盈利且运转良好得项目', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下属于私人资本融资的是（）', 'answer': '创业者自筹资金\x01向亲戚融资\x01向朋友借款', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业融资之所以困难，是因为（ ）。', 'answer': '创业企业缺少甚至没有资产\x01创业企业没有可参考的经营记录\x01创业企业的融资规模相对较小', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '对大多数早期创业者来讲，最常采用的融资方式是（ ）', 'answer': '私人资本融资', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '在创业过程，创业者若没有钱，就不能采取任何创业行动。（）', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '中国“互联网+”大学生创新创业大赛被誉为一场“永不落幕的大赛”。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '根据资金来源性质，融资方式可以分为（ ）。', 'answer': '债券性资金\x01股权性资金', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '在“互联网+”时代，教师对知识的掌握不再具有绝对优势。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '按融资对象，融资渠道可分为', 'answer': '私人资本融资\x01机构融资\x01政府背景融资', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '第五届“互联网+”大学生创新创业大赛的主题是“红色筑梦点亮人生 青春领航振兴中华”', 'answer': '错', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '与既有企业相比，创业企业在融资条件上具有明显的劣势，其中不包括哪项（）', 'answer': '融资规模相对较大', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '中国“互联网+”大学生创新创业大赛是由李克强总理在视察吉林大学大学时发起的', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '根据“创业教育之父”蒂蒙斯教授的模型，以下哪项不是创业的本质要素？', 'answer': '梦想', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下哪些赛道属于中国“互联网+”大学生创新创业大赛赛道', 'answer': '高教主赛道\x01青年红色筑梦之旅赛道\x01职教赛道\x01国际赛道', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '许多天使投资不仅提供资金，还提供专业知识和社会资源方面支持。', 'answer': '对', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '学校可以使用哪些途径广泛宣传和发动“互联网+”大赛', 'answer': '利用学校、学院网站、微信公众号、微博等平台，\x01聘请国内外知名专家来学校为大学生进行一系列的专题讲座\x01举办校级创新创业项目展示交流会\x01发放宣传手册、发布参赛指南', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '以下项目中，哪些属于“互联网+”新技术项目', 'answer': 'Insta360全景相机\x01浙江大学云象“区块链”项目\x01北京大学的“OFO”共享单车项目\x01华中科技大学的“诸葛IO”项目', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '大学生自发创新创业项目的特点有哪些', 'answer': '大学生创业项目与“互联网+”的充分融合\x01大学生自发创意\x01自主创新、商机发现', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '大学生参加“互联网+”创新创业大赛的意义有哪些', 'answer': '提升大学生的团队合作能力\x01提升大学生的科研能力以及自学能力\x01培养和提升大学生的创新能力\x01提升大学生社会实践能力', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '高校开展“互联网+”大赛的主要目的有哪些', 'answer': '着眼国家创新驱动发展建立长效机制\x01深入探索创新创业教育的携手共创模式\x01以大赛为抓手，深化高校创新创业教育改革', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业思维五大原则的第二条原则是（ ）', 'answer': '可承受损失原则', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '创业思维的原则不包括（ ）', 'answer': '坚持到底原则', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '大学生创新创业基础'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生创新创业基础'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '判断直线MN是否和三角形ABC垂直__￼', 'answer': '是否否是', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '下列三角形哪个是直角三角形？（）', 'answer': 'B', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '中国大学MOOC: 下列图中用圆圈标记的线段，哪个等于AB的实长？', 'answer': 'http://edu-image.nosdn.127.net/58D4D835F16147AF295038020332BA56.png?imageView&amp;thumbnail=890x0&amp;quality=100', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '已知直线AB，CD为一般位置直线，且AB//CD，', 'answer': '两 \x01 垂直', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '￼图中三角形ABC是（ ）。', 'answer': '侧垂面', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': False, 'message': '参数不完整', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '判断直线MN是否和三角形ABC垂直__￼', 'answer': '是否否是', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '下列三角形哪个是直角三角形？（）', 'answer': 'B', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '中国大学MOOC: 下列图中用圆圈标记的线段，哪个等于AB的实长？', 'answer': 'http://edu-image.nosdn.127.net/58D4D835F16147AF295038020332BA56.png?imageView&amp;thumbnail=890x0&amp;quality=100', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '已知直线AB，CD为一般位置直线，且AB//CD，', 'answer': '两 \x01 垂直', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '￼图中三角形ABC是（ ）。', 'answer': '侧垂面', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': False, 'message': '参数不完整', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '判断直线MN是否和三角形ABC垂直__￼', 'answer': '是否否是', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '下列三角形哪个是直角三角形？（）', 'answer': 'B', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '中国大学MOOC: 下列图中用圆圈标记的线段，哪个等于AB的实长？', 'answer': 'http://edu-image.nosdn.127.net/58D4D835F16147AF295038020332BA56.png?imageView&amp;thumbnail=890x0&amp;quality=100', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '已知直线AB，CD为一般位置直线，且AB//CD，', 'answer': '两 \x01 垂直', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '￼图中三角形ABC是（ ）。', 'answer': '侧垂面', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': False, 'message': '参数不完整', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '正四棱台被截切、穿孔，正确的投影是', 'answer': 'http://image.zhihuishu.com/zhs/onlineexam/ueditor/201705/f26dbec20ef14a53a0398192e4bed96a.jpg', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '指出下列组合中不正确的一组', 'answer': '变态反应性疾病—常有嗜酸性粒细胞减少', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '中国大学MOOC: 下面4组图形中，表达正确的一组是（）', 'answer': 'http://edu-image.nosdn.127.net/C86E7183C58E477A67C946B970F1C50C.jpg?imageView&amp;thumbnail=890x0&amp;quality=100', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': False, 'message': '参数不完整', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '正四棱台被截切、穿孔，正确的投影是', 'answer': 'http://image.zhihuishu.com/zhs/onlineexam/ueditor/201705/f26dbec20ef14a53a0398192e4bed96a.jpg', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '指出下列组合中不正确的一组', 'answer': '变态反应性疾病—常有嗜酸性粒细胞减少', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '中国大学MOOC: 下面4组图形中，表达正确的一组是（）', 'answer': 'http://edu-image.nosdn.127.net/C86E7183C58E477A67C946B970F1C50C.jpg?imageView&amp;thumbnail=890x0&amp;quality=100', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': False, 'message': '参数不完整', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '两立体的相贯线正面投影为（\xa0）http://image.zhihuishu.com/zhs/onlineexam/ueditor/201908/3854501225ee41b1a6f60a9003080927.png', 'answer': '（3）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '两立体的相贯线正面投影为（\xa0）http://image.zhihuishu.com/zhs/onlineexam/ueditor/201908/3854501225ee41b1a6f60a9003080927.png', 'answer': '（3）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '半球截切后正确的水平投影是（\xa0）http://image.zhihuishu.com/zhs/onlineexam/ueditor/201908/2b09cedeab2a4385aa9d6bb13cd29be9.png', 'answer': '（2）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '圆柱被截切后的水平投影为（）http://image.zhihuishu.com/zhs/onlineexam/ueditor/201908/8eda0480d41942249c8efb9e93cff215.png', 'answer': '（2）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '圆锥被截切后的侧面投影为（）http://image.zhihuishu.com/zhs/onlineexam/ueditor/201908/4823c384100c4a9ba049d6e8402b2add.png', 'answer': '（1）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '三棱柱被截切后的侧面投影为（\xa0）http://image.zhihuishu.com/zhs/onlineexam/ueditor/201908/47a0c514dc11474faed7ad33a7eeceba.png', 'answer': '（3）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '正四棱台被截切、穿孔，正确的投影是', 'answer': 'http://image.zhihuishu.com/zhs/onlineexam/ueditor/201705/f26dbec20ef14a53a0398192e4bed96a.jpg', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '六棱柱被截切后的侧面投影为（\xa0\xa0）http://image.zhihuishu.com/zhs/onlineexam/ueditor/201908/b1de8d9a74994e619499ce42a06d10d3.png', 'answer': '（1）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '指出下列组合中不正确的一组', 'answer': '变态反应性疾病—常有嗜酸性粒细胞减少', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '中国大学MOOC: 下面4组图形中，表达正确的一组是（）', 'answer': 'http://edu-image.nosdn.127.net/C86E7183C58E477A67C946B970F1C50C.jpg?imageView&amp;thumbnail=890x0&amp;quality=100', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '选择正确的左视图', 'answer': '（ C ）', 'id': '1', 'course_name': '制图基础（山东联盟）'}
+{'success': False, 'message': '参数不完整', 'course_name': '制图基础（山东联盟）'}
+{'success': True, 'problem': '下列行为不属于良好的生活习惯的是（ ）。', 'answer': '少喝酒、少抽烟', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '下列哪项不是运动安全守则（ ）。', 'answer': '独自去偏僻的地方运动', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '平衡膳食不包括（ ）。', 'answer': '多吃鱼、禽、蛋、瘦肉', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '为了在“刷屏时代”远离“行为上瘾”，下面方式中不恰当的是（ ）', 'answer': '不使用手机和电脑', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '人一生中所患疾病45％以上与生活方式有关，死亡因素有60％是不良的生活方式造成的。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '肾功能检查常用的检查项目包含血尿素氮、血肌酐、血尿酸、尿蛋白等。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '体质指数（ BMI ）为体重（ Kg ）除以身高（ M ）的平方。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '心率是指正常人安静状态下每分钟心跳的次数，一般成人为50～120次/分，可因年龄、性别或其他生理因素产生个体差异。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '目前我国高血压诊断标准为收缩压≥140mmHg，舒张压≥90mmHg。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '血脂检查一般包含总胆固醇、甘油三酯、高密度脂蛋白、低密度脂蛋白等。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '人生的意义感和价值感也是非常重要的品格。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '做积极发展的有为青年，是每一个青年的责任和使命。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '中国文化下积极青少年发展具有四大核心特点，包括，能力，品格，自我价值和联结。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '青年不需要参与到多元、“营养丰富”的关系和环境中。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '积极发展视角的提出，是发展心理学领域的重大范式变革。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '男性内生殖器官有两种附属腺，分别是精囊和尿道球腺。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '年轻未婚人群也可以获得国家免费提供的避孕药具。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '避孕套的优势是具有双重保护作用，而且这两种保护作用的效果都非常好。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '无痛人流非常安全，对身体几乎没有伤害。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '终止非意愿妊娠的时间不宜超过孕10周', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '若旅游时居住的酒店发生火灾，不可搭乘电梯逃生。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '在游泳前应做全身运动，充分活动关节，放松肌肉，以免下水后发生抽筋、扭伤等事故。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '对于烧伤患者，除了要迅速使伤者脱离致伤源，还要立即用流水冲洗烧伤伤口，时间不少于30分钟。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '道路交通伤害的急救原则为：正确、快速、有效的医疗救治及看护，避免伤者的死亡或残障。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '受伤学生若意识不清，应该首先检查重要生命体征A（气道）、B(呼吸)、C（循环）。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '在学校体育课上，甲学生在打篮球时，用胳膊肘撞击了乙学生头部，导致乙学生意识丧失，在场的一位学生尽管没有受过专业培训，但是立即对乙学生实施心肺复苏术。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '某学生为了防止蚊虫叮咬，在宿舍里点燃蚊香，导致蚊香周边的书报起火，在熄火的过程中，该学生被烧伤，室友立即打车将他送到医院治疗。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '某学生不小心从楼梯上坠落下来，身体多处受伤，这种损伤属于意外伤害。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '男性内生殖器官有两种附属腺，分别是精囊和尿道球腺。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '年轻未婚人群也可以获得国家免费提供的避孕药具。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '避孕套的优势是具有双重保护作用，而且这两种保护作用的效果都非常好。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '无痛人流非常安全，对身体几乎没有伤害。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '终止非意愿妊娠的时间不宜超过孕10周', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '若旅游时居住的酒店发生火灾，不可搭乘电梯逃生。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '在游泳前应做全身运动，充分活动关节，放松肌肉，以免下水后发生抽筋、扭伤等事故。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '对于烧伤患者，除了要迅速使伤者脱离致伤源，还要立即用流水冲洗烧伤伤口，时间不少于30分钟。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '道路交通伤害的急救原则为：正确、快速、有效的医疗救治及看护，避免伤者的死亡或残障。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '受伤学生若意识不清，应该首先检查重要生命体征A（气道）、B(呼吸)、C（循环）。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '在学校体育课上，甲学生在打篮球时，用胳膊肘撞击了乙学生头部，导致乙学生意识丧失，在场的一位学生尽管没有受过专业培训，但是立即对乙学生实施心肺复苏术。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '某学生为了防止蚊虫叮咬，在宿舍里点燃蚊香，导致蚊香周边的书报起火，在熄火的过程中，该学生被烧伤，室友立即打车将他送到医院治疗。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '某学生不小心从楼梯上坠落下来，身体多处受伤，这种损伤属于意外伤害。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '人际技能是指使用技术完成组织任务的能力，即执行一项特定任务所必须的能力（）', 'answer': '错', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '中层管理者的主要职责是直接指挥和监督现场作业人员，保证完成上级下达的各项计划和指令（）', 'answer': '错', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '管理的任务环境因素主要包括（）', 'answer': '供应者\x01竞争对手\x01顾客\x01政府机构', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '管理学的学习方法主要有（）', 'answer': '历史法\x01比较法\x01案例分析法\x01综合法', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '管理活动具有哪些方面的特征（）', 'answer': '两重性\x01普遍性\x01科学性\x01艺术性', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '法约尔提出所有管理者都履行的五项管理职能 （）', 'answer': '计划职能\x01组织职能\x01协调职能', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '下列哪项属于任务环境因素（ ）', 'answer': '社会特殊利益代表组织', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '下列哪项不属于一般环境因素（ ）', 'answer': '生态环境因素', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '管理者应当具备的基本技能不包括哪一项（ ）', 'answer': '理论技能', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '下列哪项不是按管理者在组织所处地位不同分类（ ）', 'answer': '最高层管理者', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': False, 'message': '参数不完整', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '怎样帮助失独家庭？', 'answer': '鼓励生育，用新生婴儿来替代失去的孩子。\x01提供试管婴儿的技术和经费，提高受孕的可能。\x01鼓励就业创业把注意力转移到工作上。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾后心理救援，心理学工作者应该怎样开展工作？', 'answer': '配合政府工作，在政府领导下，根据政府的需要，开展心理救援工作。#参加相关NGO组织，将心理救援作为灾后心理重建的一部分工作。#扮演政府顾问的角色，为政府工作提供建议和方案，同时和其他组织合作，拾遗补漏的开展系统的心理救援工作。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '根据见面课的内容，请问丧偶者是否应该尽早再婚？', 'answer': '不该，刚经历灾难后，心理上会有问题，不该结婚', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '怎样帮助灾难后幸存的孤儿？', 'answer': '提供生活经费，尽可能指定有血缘关系在灾区抚养。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '根据见面课视频中讲解，请问怎样采访幸存者？', 'answer': '向幸存者说明报道的意义，说服其接受采访，因为这样可以把真实的情况传递给大家，引起全社会的关注。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '什么样的帮助最有效？', 'answer': '政府首脑和军队尽快抵达现场，并报道该消息。#招募志愿者，简单培训，担负陪伴的工作', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾难发生后一周内，怎样给予心理援助？', 'answer': '陪伴，支持，照料。提供饮食，饮水，安全的居所，不要说太多话', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '怎样帮助失独家庭？', 'answer': '鼓励生育，用新生婴儿来替代失去的孩子。\x01提供试管婴儿的技术和经费，提高受孕的可能。\x01鼓励就业创业把注意力转移到工作上。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾后心理救援，心理学工作者应该怎样开展工作？', 'answer': '配合政府工作，在政府领导下，根据政府的需要，开展心理救援工作。#参加相关NGO组织，将心理救援作为灾后心理重建的一部分工作。#扮演政府顾问的角色，为政府工作提供建议和方案，同时和其他组织合作，拾遗补漏的开展系统的心理救援工作。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '根据见面课的内容，请问丧偶者是否应该尽早再婚？', 'answer': '不该，刚经历灾难后，心理上会有问题，不该结婚', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '怎样帮助灾难后幸存的孤儿？', 'answer': '提供生活经费，尽可能指定有血缘关系在灾区抚养。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '根据见面课视频中讲解，请问怎样采访幸存者？', 'answer': '向幸存者说明报道的意义，说服其接受采访，因为这样可以把真实的情况传递给大家，引起全社会的关注。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '什么样的帮助最有效？', 'answer': '政府首脑和军队尽快抵达现场，并报道该消息。#招募志愿者，简单培训，担负陪伴的工作', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾难发生后一周内，怎样给予心理援助？', 'answer': '陪伴，支持，照料。提供饮食，饮水，安全的居所，不要说太多话', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n首先要稳定受害者情绪和心理，然后开展救援工作。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n社会支持系统至关重要。', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n干预介入的方式要适合灾难的不同阶段。', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n幸存者对于他人主动的关心和关怀都有良好的反应。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n灾后心理急救偏重于现实问题而非心理上问题。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n幸存者可能会拒绝各种方式的协助。', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n灾后救助曾被称为二度灾难。', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n许多幸存者的情绪反应来自于灾难所产生的生活问题。', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，判断正误：\n灾难后的压力和哀伤反应是正常人在非正常情况下的正常反应。', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '结合灾难心理救援的一些观念和结论，请回答问题：\n每个人都受影响。', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '怎样评价灾后心理救援工作的效果？', 'answer': '受助者主观感受#心理障碍发病率#灾难受害者的社会功能恢复情况#社区和谐稳定水平', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '主要运用哪些心理学理论技术来实施灾后心理救援？', 'answer': '心理急救术（first aid）\x01心理创伤治疗', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾难心理援助的对象', 'answer': '灾难幸存者、救援一线医护人员、管理人员、军队人员等。#与灾难幸存者人群有关的人，如家属、同事、朋友，参加灾难应对的后方救援者，如现场指挥、组织管理人员、志愿者等。#受灾难影响的灾区相关人群、普通公众。#在灾区工作的政府公务员。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '心理援助，何时介入最佳？', 'answer': '灾难发生48小时后', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '心理学工作者在灾难救援中，可以扮演怎样的角色？', 'answer': '社会工作者\x01心理咨询师\x01危机干预者\x01政府工作人员', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '下列哪些情况可以称之为心理创伤？', 'answer': '直接经历生死的创伤事件。\x01亲眼目睹发生在他人身上的生死创伤事件。\x01获悉关系密切的家庭成员或关系密切的朋友接触于生死创伤事件。\x01亲身经历被性侵\x01反复经历或极端接触于生死创伤事件中的恶性细节中。', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '下列那些症状是人经历创伤后会出现的特征性症状？', 'answer': '重新体验\x01高度警觉\x01回避\x01解离', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾难救援一般的过程分为几个时期？', 'answer': '英雄期\x01蜜月期\x01幻灭期\x01悲伤期\x01重建期', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '急性创伤干预的目的（ ）', 'answer': '处理早期反应（生理、心理、行为）\x01增强短期、长期功能适应能力\x01加强组内团结\x01早发现创伤后应激障碍病人', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '创伤后没有反应的人，可能有更严重的心理创伤。', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '对不同文化的人，灾后心理急救的方法都是一样的。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '受灾者回避回忆现场，是人对自己的保护', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾后急救必须要在24小时内处理心理创伤', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '急性创伤干预的恐慌期是什么时候？', 'answer': '创伤事件发生3天后', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾难刚刚发生后，与受害者相处时不要做什么？', 'answer': '跟受灾者开玩笑缓和气氛\x01跟受灾者说“这件事情没什么”', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '不应该让受灾者参与到救灾过程（ ）', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾难后，应该如何与媒体合作？', 'answer': '主动提供信心，成为信息的来源\x01和媒体建立良好的合作关系', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '什么情况下受灾者需要进一步帮助？', 'answer': '心理症状在4-6周后还没有减少\x01心理症状增加\x01职业社会功能丧失\x01明显的人格改变', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '危机事件发生后，行为比之前小心是正常的？', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '安心团体需要在何时进行？', 'answer': '48小时之后', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '哀悼的阶段可以分为（ ）。', 'answer': '回避阶段\x01面对阶段\x01适应阶段', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '一段时间后，我对这次亲友去世的悲剧就不会再有什么感觉了。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '哪些在办理后事时我感到愤怒和攻击的人都是借故闹事。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '在葬礼上哭不出来的人是因为不孝。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '急性创伤干预的恐慌期是什么时候？', 'answer': '创伤事件发生3天后', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾难刚刚发生后，与受害者相处时不要做什么？', 'answer': '跟受灾者开玩笑缓和气氛\x01跟受灾者说“这件事情没什么”', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '不应该让受灾者参与到救灾过程（ ）', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '哀悼的阶段可以分为（ ）。', 'answer': '回避阶段\x01面对阶段\x01适应阶段', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '一段时间后，我对这次亲友去世的悲剧就不会再有什么感觉了。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '哪些在办理后事时我感到愤怒和攻击的人都是借故闹事。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '在葬礼上哭不出来的人是因为不孝。', 'answer': '错', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '灾难后，应该如何与媒体合作？', 'answer': '主动提供信心，成为信息的来源\x01和媒体建立良好的合作关系', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '什么情况下受灾者需要进一步帮助？', 'answer': '心理症状在4-6周后还没有减少\x01心理症状增加\x01职业社会功能丧失\x01明显的人格改变', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '危机事件发生后，行为比之前小心是正常的？', 'answer': '对', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '安心团体需要在何时进行？', 'answer': '48小时之后', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '下列行为不属于良好的生活习惯的是（ ）。', 'answer': '少喝酒、少抽烟', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '下列哪项不是运动安全守则（ ）。', 'answer': '独自去偏僻的地方运动', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '平衡膳食不包括（ ）。', 'answer': '多吃鱼、禽、蛋、瘦肉', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '为了在“刷屏时代”远离“行为上瘾”，下面方式中不恰当的是（ ）', 'answer': '不使用手机和电脑', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '人一生中所患疾病45％以上与生活方式有关，死亡因素有60％是不良的生活方式造成的。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '肾功能检查常用的检查项目包含血尿素氮、血肌酐、血尿酸、尿蛋白等。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '体质指数（ BMI ）为体重（ Kg ）除以身高（ M ）的平方。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '心率是指正常人安静状态下每分钟心跳的次数，一般成人为50～120次/分，可因年龄、性别或其他生理因素产生个体差异。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '目前我国高血压诊断标准为收缩压≥140mmHg，舒张压≥90mmHg。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '血脂检查一般包含总胆固醇、甘油三酯、高密度脂蛋白、低密度脂蛋白等。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '人生的意义感和价值感也是非常重要的品格。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '做积极发展的有为青年，是每一个青年的责任和使命。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '中国文化下积极青少年发展具有四大核心特点，包括，能力，品格，自我价值和联结。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '青年不需要参与到多元、“营养丰富”的关系和环境中。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '积极发展视角的提出，是发展心理学领域的重大范式变革。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '男性内生殖器官有两种附属腺，分别是精囊和尿道球腺。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '年轻未婚人群也可以获得国家免费提供的避孕药具。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '避孕套的优势是具有双重保护作用，而且这两种保护作用的效果都非常好。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '无痛人流非常安全，对身体几乎没有伤害。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '终止非意愿妊娠的时间不宜超过孕10周', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '若旅游时居住的酒店发生火灾，不可搭乘电梯逃生。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '在游泳前应做全身运动，充分活动关节，放松肌肉，以免下水后发生抽筋、扭伤等事故。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '对于烧伤患者，除了要迅速使伤者脱离致伤源，还要立即用流水冲洗烧伤伤口，时间不少于30分钟。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '道路交通伤害的急救原则为：正确、快速、有效的医疗救治及看护，避免伤者的死亡或残障。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '受伤学生若意识不清，应该首先检查重要生命体征A（气道）、B(呼吸)、C（循环）。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '在学校体育课上，甲学生在打篮球时，用胳膊肘撞击了乙学生头部，导致乙学生意识丧失，在场的一位学生尽管没有受过专业培训，但是立即对乙学生实施心肺复苏术。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '某学生为了防止蚊虫叮咬，在宿舍里点燃蚊香，导致蚊香周边的书报起火，在熄火的过程中，该学生被烧伤，室友立即打车将他送到医院治疗。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '某学生不小心从楼梯上坠落下来，身体多处受伤，这种损伤属于意外伤害。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': False, 'message': '参数不完整', 'course_name': '灾难心理学与灾后心理救援'}
+{'success': True, 'problem': '经验主义学派的主要特点是重点分析有效的管理者的实际管理经验并加以概括、总结，得出具有共性的结论', 'answer': '对', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '通过“霍桑实验”的得出的结论有', 'answer': '企业中存在“非正式组织”\x01职工是“社会人”\x01人的行为与人的情感有密切关系\x01工人的工作“士气”是影响工作效率的重要因素之一', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '古典管理理论的代表人物有( )。', 'answer': '泰罗\x01韦伯\x01法约尔', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '注重量化分析，强调运用数学模型解决决策问题，以寻求决策的科学化与精确化的学派是', 'answer': '管理科学学派', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '泰罗认为，科学管理的中心问题是：（ ）', 'answer': '提高劳动生产率', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '明茨伯格把信息传递方面的角色分为监听者、联络者和发言人', 'answer': '错', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '基层管理人员必须具备（）技能', 'answer': '技术技能\x01人事技能\x01概念技能', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '管理者的角色包括( )', 'answer': '人际关系方面的角色、信息传递方面的角色、实际操作方面的角色', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '管理具有与生产关系、与社会制度相联系的一面,这里是指( )', 'answer': '管理的社会属性', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '根据对“管理”定义的分析得出，管理的对象是', 'answer': '组织资源', 'id': '1', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': False, 'message': '参数不完整', 'course_name': '管理学（哈尔滨工程大学）'}
+{'success': True, 'problem': '人生的意义感和价值感也是非常重要的品格。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '做积极发展的有为青年，是每一个青年的责任和使命。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '中国文化下积极青少年发展具有四大核心特点，包括，能力，品格，自我价值和联结。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '青年不需要参与到多元、“营养丰富”的关系和环境中。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '积极发展视角的提出，是发展心理学领域的重大范式变革。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '肾功能检查常用的检查项目包含血尿素氮、血肌酐、血尿酸、尿蛋白等。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '体质指数（ BMI ）为体重（ Kg ）除以身高（ M ）的平方。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '心率是指正常人安静状态下每分钟心跳的次数，一般成人为50～120次/分，可因年龄、性别或其他生理因素产生个体差异。', 'answer': '错', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '目前我国高血压诊断标准为收缩压≥140mmHg，舒张压≥90mmHg。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '血脂检查一般包含总胆固醇、甘油三酯、高密度脂蛋白、低密度脂蛋白等。', 'answer': '对', 'id': '1', 'course_name': '大学生健康教育'}
+{'success': False, 'message': '参数不完整', 'course_name': '大学生健康教育'}
+{'success': True, 'problem': '职业生涯规划的主要内容包括哪些？', 'answer': '找到兴趣\x01确定目标\x01积极行动\x01提升能力', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '“游戏玩家”和“吃货”算不算职业 ?', 'answer': '不算', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '大学生认为最浪费大学生时间的事情包括？', 'answer': '睡懒觉\x01打游戏\x01看连续剧\x01谈恋爱', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '过一个好的大学生活包括的步骤有 哪些 ?', 'answer': '了解适应大学生活\x01思考和描绘愿景\x01把愿景变成目标\x01行动行动再行动', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '目标的价值在于？', 'answer': '聚焦能量\x01引发行动', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '大学的有效时间有多少？（ ）', 'answer': '10个月', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '大学生活四步中最重要的一步是（）', 'answer': '行动行动再行动', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '目标最重要的作用是什么？（ ）', 'answer': '自我超越', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '课程讲到北极熊的故事是想说明什么？ （ ）', 'answer': '人需要目标才能不随波逐流', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '职业生涯规划的思维模式是（ ）。', 'answer': 'Being—》having—》doing', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': False, 'message': '参数不完整', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': 'AI时代会在未来15—20年全面到来，会让我们的工作和生活产生深刻的变化。', 'answer': '对', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '能力是一个积累的过程，不能速成。', 'answer': '对', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '阅读、表达和写作是每一个大学生都应该具备的基础能力。', 'answer': '对', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '大学就是来读书的，职业的事情大四再操心就好了。', 'answer': '错', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '大一的学生完成课堂学习就好了，不用去管什么世界的变化趋势', 'answer': '错', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': False, 'message': '参数不完整', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '求职竞争的规则是学历和证书的比拼。', 'answer': '错', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '"探索技能三式" 包括（ ）', 'answer': '模拟面试\x01寻找核心技能\x01个人证明', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '想要跨专业最重要的是( )。', 'answer': '学好技能', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '可迁移技能包括？', 'answer': '沟通能力#表达能力#团队合作', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '如果把人生比作车的话，能力是什么？', 'answer': '汽油', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '能力是用人单位最看重的，主要通过 途径获得。', 'answer': '可迁移技能，练习', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '能力中的 能力是通过认同、模仿、内化等途径获得。', 'answer': '自我管理能力', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '专业知识技能的获得途径有（）', 'answer': '在校教育\x01业余辅导，自学相关课程\x01资格认证考试培训\x01专业会议，讲座，研讨会', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '在将来的职场是硬通货。', 'answer': '能力', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '能力的三把剑是： 。', 'answer': '专业知识技能、可迁移技能、自我管理技能；', 'id': '1', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': False, 'message': '参数不完整', 'course_name': '不负卿春-大学生职业生涯规划'}
+{'success': True, 'problem': '阅读下面的史料：武王崩三監及淮夷叛周公相成王將黜殷作大誥王若曰猷大誥爾多邦越爾禦事弗吊天降割於我家不少延洪惟我幼沖人嗣無疆大曆服弗造哲迪民康根据上述史料，下面哪一条最能概括其中心思想：', 'answer': '周公诰命诸侯：周人的统治遭遇了危机', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '从“导论”的内容看，本课程最突出的特色是：', 'answer': '思想性强，可以丰富人生智慧', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于本课程内容的基本格局，下面哪两种表述比较合适：', 'answer': '先秦时代以诸子学说为核心#秦汉以后以儒道佛三教为框架', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于本课程的宗旨，下面哪一种阐述最为妥当：', 'answer': '发掘和阐述中华民族的传统知识，为现实生活提供借鉴', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '当前流行的国学概论著作主要有三种形式。下面哪一项不在这三种形式之内：', 'answer': '以经学为中心的形式', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '“中华国学就是中华民族的传统学术。”对这句话的解释不妥当的一项是 ：', 'answer': '“中华”一词主要是种族概念', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '东汉的官方文献《白虎通义》说： “帝王者何？号也。号者，功之表也，所以表功明德，号令臣下者也。德合天地者称帝，仁义合者称王，别优劣也。《礼记·谥法》曰：‘德象天地称帝，仁义所在称王。’”从这里可以看出：', 'answer': '在东汉，帝王被极大神圣化了\x01在东汉，帝王代表着天地道德', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉代的五经指的是', 'answer': '《诗》、《书》、《礼》、《易》、《春秋》', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '阅读下列诗词，分析哪些诗词表现的内容与杨朱的思想比较接近：', 'answer': '春宵苦短日高起，从此君王不早朝#人生得意须尽欢，莫使金樽空对月', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '名家是战国时代研究语言逻辑的学派，与墨家的经验逻辑不同。下列哪个命题不属于名家 ？', 'answer': '白马是马', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '春秋时期，士阶层应该掌握六种技能，是为“六艺”。孔子教育学生的内容就包括这“六艺”，具体内容是：', 'answer': '礼、乐、射、御、书、数', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于法家思想的特点，下面哪两种说法符合实情？', 'answer': '法家注重个人利益#法家注重法律约束', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '韩非的政治管理学说包括哪些要素？', 'answer': '以上三项之和', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于阴阳学说，下面的陈述中两个正确的选项是', 'answer': '宇宙中任何事物都包含阴阳两种属性#阴阳表示两个相互依存的空间世界', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时期的五行家认为五行相克，相克的顺序是：', 'answer': '土→水→火→金→木', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '我们今天所见的《易经》，是由多少卦、多少爻组成的：', 'answer': '六十四卦#三百八十四爻', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '先秦诸子中，有人宣扬仁爱，有人宣扬兼爱。这两种主张的代表人物分别是：', 'answer': '孔丘\x01墨翟', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国诸子中，有人宣扬爱己，有人宣扬不要爱别人。这两种主张的代表人物分别是：', 'answer': '杨朱\x01韩非', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国诸子中，一家反战，一家好战，彼此学说根本对立。这两家分别是：', 'answer': '法家\x01墨家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '孔子认为中庸之道合理，中庸之道是儒家思想的精髓。在儒家学说中，中庸之道与哪两种思考直接相关', 'answer': '政治的功能是维护人际和谐\x01要人际和谐就不能不讲人情', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时期名家提出的重要命题之一是“狗非犬”。这一命题阐明了：', 'answer': '“狗”与“犬”是两个不同的名称符号', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '秦采用法家的策略，产生了两个方面的社会后果，这两种后果是：', 'answer': '兼并诸侯，统一中国\x01秦帝国迅速崩溃', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '中华文明被人们称为礼乐文明，礼乐文明以礼为核心。礼的功能反映在哪两个方面', 'answer': '没有礼制就没有效率\x01没有礼制就没有秩序', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '法家思想的两个鲜明特色是：', 'answer': '奖惩严明\x01富国强兵', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《孙子兵法》说：“兵无常势，水无常形；能因敌变化而取胜，谓之神。”这反映了作者：', 'answer': '因敌而变的军事思想', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '同西方医学相比，中华医学具有某些长处，表现长处的两个方面是：', 'answer': '治疗非器质性疾病\x01养生保健', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在下面的主张中，哪两种与法家的主张相合？', 'answer': '一断于法\x01以法为教，以吏为师', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《孙子兵法》说： “ 兵者，国之大事，死生之地，存亡之道，不可不察也。 ” 这反映了作者', 'answer': '对战争的深刻思考', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于阴阳五行学说的性质，下述哪两个选项比较客观：', 'answer': '它是古人长期生活经验的总结\x01它是中国古代多种学术的理论基础', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '礼学是儒家学说的重要内容。依照儒家礼学的精神，下面哪两个选项不能接受', 'answer': '礼是赋予少数人特权\x01礼是上一级压迫下一级', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《周易·杂卦》说 ： “ 《乾》刚《坤》柔，《比》乐《师》忧。《临》、《观》之义，或与或求。《屯》见而不失其居，《蒙》杂而著。《震》，起也；《艮》，止也。《损》、《益》，盛衰之始也。 ” 下面哪一个选项符合这段话的意思：', 'answer': '益卦和损卦表示盛衰', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于法家思想的特点，下面哪两种说法符合实情？', 'answer': '法家注重个人利益#法家注重法律约束', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于法家思想的特点，下面哪两种说法符合实情？', 'answer': '法家注重个人利益#法家注重法律约束', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《墨子》主张： “ 衣三领足以朽肉，棺三寸足以朽骸，堀穴深不通于泉流，不发洩则止。死者既葬，生者毋久丧用哀。 ” 这反映了墨家', 'answer': '节葬的思想', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '中华医学提倡“治未病”，与这一精神最为符合的两个选项是', 'answer': '调养脾胃\x01保精护肾', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '先秦儒家主张政府应该实施仁政，所谓“仁政”是指哪两项', 'answer': '为政以德，在政治中先德后刑\x01官员应该成为道德楷模和表率', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《周易·系辞》说：“ 古者，包牺氏之王天下也，仰则观象于天，俯则观法于地，观鸟兽之文与地之宜，近取诸身，远取诸物，于是始作八卦，以通神明之德，以类万物之情。”这段话的核心思想是：', 'answer': '包牺氏制作八卦以预测吉凶', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '秦统一中国以后，发生了焚书坑儒的事件。导致这一事件发生的两个主要人物是', 'answer': '秦始皇\x01李斯', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '韩非的政治管理学说包括哪些要素？', 'answer': '以上三项之和', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《墨子》书中说：“ 美食刍豢，蒸炙鱼鳖，大国累百器，小国累十器，前方丈，目不能遍视，手不能遍操，口不能遍味。 ” 这段话描述了：', 'answer': '贵族阶层的生活奢侈', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '中华医学用五行学说解释人体同类器官之间的内在联系，这被称为“同类相从 ” ，即一个器官的疾病会在相应的另一个器官有所显现。与 “ 同类相从 ” 联系紧密两个选项是', 'answer': '肝主目\x01肾主耳', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《荀子·劝学》专门论述了学习的重要性和学习的意义。属于该篇的两个选项是', 'answer': '吾尝终日而思矣，不如须臾之所学也\x01蓬生麻中，不扶而直；白沙在涅，与之俱黑', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《周易·系辞》说：“易有太极，是生两仪，两仪生四象，四象生八卦。”下面的解释不符合上述思想的一项是', 'answer': '《周易》生太极', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '秦帝国的崩溃，与下列哪两种因素有直接关系？', 'answer': '官员之间勾心斗角，导致政局不稳\x01刑法苛刻，民不聊生', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于阴阳学说，下面的陈述中两个正确的选项是', 'answer': '宇宙中任何事物都包含阴阳两种属性#阴阳表示两个相互依存的空间世界', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《韩非子·主道》说：“ 诚有功则虽疏贱必赏，诚有过则虽近爱必诛。 ” 这句话的意思是：', 'answer': '一个人立了功，无论是谁都应受奖赏\x01一个人有了罪过，无论是谁都应被惩罚', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '中医用五行学说解释人体五脏之间的关系，包括同类相从、异类相感两种情形。异类相感包括哪两方面的作用？', 'answer': '滋养作用\x01抑制作用', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '荀子宣扬人性恶，符合性恶论的两个选项是', 'answer': '人有生理需求，所以彼此之间厮杀争夺\x01因为人性恶，所以必须“化性起伪”', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '请看下图：图中D表示的是下列选项中的：', 'answer': '爻名', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '法家重视法制建设，这是因为“法”具有如下两个特色', 'answer': '公正性\x01强制性', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时期的五行家认为五行相克，相克的顺序是：', 'answer': '土→水→火→金→木', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《墨子》书中说，大禹治水 “ 腓无胈，胫无毛，沐甚雨，栉疾风，置万国 ” 。此一主张的两项含义是：', 'answer': '大禹一心为公，毫不为己\x01人们应该学习大禹的榜样', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '阴阳学说是中华医学的理论基础之一，人们运用阴阳学说以：', 'answer': '区分药性的温热寒凉\x01解释人体的寒热状态', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '孟子提出人性善的观点，他认为', 'answer': '恻隐之心，人皆有之\x01仁义礼智根于心', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '请看下图：图中A表示的是下列选项中的:', 'answer': '卦象', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '西汉早期的政治思想家贾谊总结秦朝灭亡的历史教训，写成了《过秦论》。在这部伟大的著作中，他的结论涉及如下哪两项', 'answer': '攻守异术#统一以后应该施行仁义政治', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '我们今天所见的《易经》，是由多少卦、多少爻组成的：', 'answer': '六十四卦#三百八十四爻', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《墨子·兼爱》主张： “ 兼相爱，交相利。 ” 与这一思想比较接近的两个选项是：', 'answer': '人们之间互相爱护\x01人们之间共同受益', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '邹衍的五德终始政治论以五行相克为基础。依照他的理论，下列选项中正确的两项是', 'answer': '夏朝是木德，推翻夏朝的商朝应该是金德\x01周朝是火德，取代周朝的秦朝应该是水德', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于孔子的人性论，表述正确的两个选项是', 'answer': '人与人之间先天的道德差异很小#后天环境加剧了人们之间的品格差异', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在《周易》筮法中，三个多数（如9,8,8）被称为老阴，二个少数一个多数（如5,4,8）被称为：', 'answer': '少阴', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '秦统一中国，功垂千古。秦帝国的历史功绩包括哪两项', 'answer': '修筑驰道和栈道\x01击退匈奴，修筑万里长城', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '在诸子百家中，勤俭节约与贪图享乐是哪两派的主张', 'answer': '墨家\x01杨朱学派', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '古代印度有地水火风学说，中国古代有水木金火土学说。下面哪两个选项比较符合实际：', 'answer': '这两种学说产生于不同的国情，都有意义\x01这两种学说都源于社会生活，是特定时代的智慧', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在先秦诸子中，儒家学派的代表人物有', 'answer': '孟子\x01荀子', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《易传》7种，共10篇。没有《易传》，《易经》便难以理解，所以人们把《易传》的10篇比喻为10个翅膀，称为“十翼”。其中，《文言》一篇占十翼之一，它是专门解释哪两卦的：', 'answer': '乾卦\x01坤卦', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '秦国在春秋战国时代变法最晚，但是最彻底，原因可能是', 'answer': '秦国改革晚，可借鉴经验多\x01秦国改革有系统的法家理论指导', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在诸子百家中，下列哪些思想家主张赏罚分明、令行禁止', 'answer': '韩非子\x01孙子', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在中国古代的五行学说中：', 'answer': '五行表示构成世界的五种物质元素\x01五行表示构成世界的五种物质元素之间相互转化', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '一言以蔽之，先秦儒学是', 'answer': '以人为焦点的政治学说', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在中国古代，易学主要有哪两大流派？', 'answer': '义理易学\x01象数易学', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '法家学说是一个完整的理论体系。下列哪些是法家学说的核心内容？', 'answer': '强调人的逐利性\x01注重法律约束', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时代百家争鸣，下列哪些思想学派关注政治和社会', 'answer': '儒家\x01墨家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于阴阳学说，下面的陈述中两个正确的选项是', 'answer': '宇宙中任何事物都包含阴阳两种属性#阴阳表示两个相互依存的空间世界', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '“中庸之道”是儒家思想的精髓，下面哪一个选项与“中庸之道”最接近', 'answer': '上下级之间是工作关系，彼此间相互协调', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '先秦时期，人们卜筮主要使用哪两种方法？', 'answer': '蓍筮\x01龟卜', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '韩非继承了申不害关于 “ 术 ” 的思想，强调政治家应该学会政治技术。他所说的“术”包括哪两项？', 'answer': '装聋作哑\x01深藏不露', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《墨子》是墨家思想的代表作。下列哪两个选项不符合墨家思想？', 'answer': '战争是正常的社会现象\x01有钱人应该及时享乐', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于阴阳五行学说，下面的选项中最为恰当的表述是', 'answer': '阴阳五行学说是中国古代很多学科的理论基石', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '孟子主张“老吾老以及人之老”。按照这一主张，在现实生活中，一个人对待邻家老人的态度应该是', 'answer': '在赡养好自己父母的前提下，尽可能帮助邻家老人', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '夏商周三代用于卜筮的文献，除了《周易》之外，另外两种是：', 'answer': '《归藏》\x01《连山》', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '韩非认为，在人类社会中，有五种人对社会没有用处，是社会蛀虫，他称之为“五蠹”。韩非所说的五蠹包括：', 'answer': '儒生、侠客、私门之徒\x01纵横家、工商业者', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '根据《孙子兵法》的军事思想，下面哪两个选项比较恰当', 'answer': '在战争中不能恪守仁义\x01军事将领必须足智多谋', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '中华医学注重保健养生， 即 “ 治未病 ” 。下述哪一项不符合中华医学的养生理论？', 'answer': '治疗为主', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '先秦儒家重视礼制，礼制是对社会人群的管理，从本质上来说，礼制的特色是', 'answer': '既有差别，又有限度', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '从总体上说，《周易》由两大部分构成，这两大部分分别是：', 'answer': '《易经》\x01《易传》', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '秦王嬴政感慨地说：“嗟乎，寡人得见此人与之游，死不恨矣！”嬴政想见的这个人是：', 'answer': '韩非', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《孙子兵法》是中国古代最伟大的兵学经典之一。下列哪两种战法与《孙子兵法》的军事思想背道而驰？', 'answer': '打持久战，以战养战\x01包围敌人，全部歼灭', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '五行学说是中华医学的理论基础。依照这一学说，下面哪一个选项是不妥当的？', 'answer': '把五行与五脏联系起来没有科学依据', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '儒家非常重视礼节。学生拜孔子为师，应该准备：', 'answer': '束脩之礼', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '根据《国语》记载，晋献公讨伐骊戎，史苏对晋献公说：周幽王讨伐有褒国，有褒国把一个美女送给周幽王，结果导致西周灭亡。如今，我们晋国正在重蹈历史覆辙！史苏所说的这位美女是：', 'answer': '褒姒', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '商鞅是战国时期的改革家，为秦国做出了重要贡献，却遭遇了悲剧性的结局。车裂商鞅的是哪位君主？', 'answer': '秦惠文王', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '阅读下列诗词，分析哪些诗词与杨朱的思想比较接近:', 'answer': '春宵苦短日高起，从此君王不早朝\x01人生得意须尽欢，莫使金樽空对月', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '阴阳学说是中华医学的理论基础。依照这一学说，下面哪一个选项是错误的', 'answer': '人们用阴阳学说解释五脏之间的关系', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '仁学是儒家学说的重要内容之一。下面哪一个选项对儒家仁学的概括最全面', 'answer': '以上说法之和', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '根据《国语》的记载，晋献公讨伐骊戎，史苏对他说：从前夏桀讨伐有施国，有施国把妹喜送给夏桀，结果使夏朝灭亡；商纣王讨伐某国，该国把妲己送给纣王，结果导致了商朝灭亡。这个被讨伐的国家是：', 'answer': '有苏国', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在韩非的学说中，“术”是政治治理的技术，实施的对象是：', 'answer': '官吏', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '墨家政治学说是一个道德主义的理论体系。下列哪两个选项符合墨子学说？', 'answer': '自己的孩子挨饿，别人的孩子也挨饿，应该同样地关照\x01自己的国家攻打别的国家，坚决反对', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '按照邹衍的五德终始政治论，如果一个朝代属于水德，水德的颜色应该是：', 'answer': '黑色', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '春秋时期，士阶层应该掌握六种技能，是为“六艺”。孔子教育学生的内容就包括这“六艺”，具体内容是：', 'answer': '礼、乐、射、御、书、数', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在中国上古时代，负责占卜的官员据兆纹预判事情的祸福吉凶，君主参考卜官的报告决定是否做某件事情。有的时候，史官把事情的结果刻在龟甲上，这类文字被称为：', 'answer': '验辞', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '韩非的政治管理学说包括哪些要素？', 'answer': '以上三项之和', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '白马是否马？这是战国时期争论的学术命题之一。“白马非马”是谁的观点？', 'answer': '公孙龙', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时期，邹衍提出了五德终始政治论，他的这一学说', 'answer': '以五行相克为理论依据', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于先秦儒家学派的人性论，下面哪一个说法是错误的？', 'answer': '韩非论性恶，宣扬化性起伪', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在中国上古时代，负责占卜的官员根据兆纹预判事情的祸福吉凶，君主参考卜官的报告决定是否做某件事情。事后占卜官把占卜的事情刻在甲骨上，这是所谓的：', 'answer': '占辞', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '“以法为教，以吏为师。”意思是说，应该用法律教育人民，政府官员应该成为守法的榜样。这一主张最先是由谁提出来的？', 'answer': '韩非', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '法家反对徇私枉法。下列哪一种观点不属于法家思想', 'answer': '在法律实践中应该考虑人情', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于阴阳五行学说的地位与性质，可以说它是：', 'answer': '以上三种说法都是正确的', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '儒家学派中最先提出性善论的是哪一位人物？', 'answer': '孟子', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在《周易》筮法中，如果是“老阴”，就应该变成阳爻，如果是“老阳”，就应该变成阴爻，从而得出新的一卦，这被称为“之”卦。“之”就是“至”的意思，表示从原来的卦变为另外的一卦，这被称为：', 'answer': '卦变', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '“食、色，性也。”意思是说，贪吃、好色是人类的本性。这是谁的观点？', 'answer': '告子', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '名家是战国时代研究语言逻辑的学派，与墨家的经验逻辑不同。下列哪个命题不属于名家 ？', 'answer': '白马是马', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时期的五行家认为五行相克，相克的顺序是：', 'answer': '土→水→火→金→木', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '孔子是儒家文化的创立者，他的人性论主张是 ：', 'answer': '人性相近', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《周易·系辞》说：“圣人设卦观象，系辞焉而明吉凶，刚柔相推而生变化。”这里所说的圣人是指：', 'answer': '包牺氏', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '商鞅在秦国实施变法，下列哪一种措施不属于商鞅变法的内容？', 'answer': '在文化上，废黜百家，独尊法家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在战国时代，墨家学说代表着社会下层的愿望。下列哪个选项不属于墨家的思想：', 'answer': '爱自己的父母胜过别人父母', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时期的五行家认为五行相生，相生的顺序是 ：', 'answer': '木→火→土→金→水', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '儒学是中国传统思想文化的主干。儒学产生于', 'answer': '春秋末期', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '按照周代筮法的规则，4和5为少数，为阳；8和9为多数，为阴。假如三变的结果分别是9、8、4，即两多一少，记为“”，这被称为：http://exam.zhihuishu.com/onlineExam/web/ueditor/1.4.2/themes/default/images/spacer.gif', 'answer': '少阳', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '卫鞅到了秦国以后，给秦孝公阐述了三种治国策略，秦孝公选择了哪一种策略？', 'answer': '霸道', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '杨朱学派乃战国诸子之一。下列哪个选项不符合杨朱学派的思想', 'answer': '勤俭持家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '阴阳五行学说是中国古代学术的理论基础。下面关于阴阳的解释，不正确的一项是', 'answer': '并非万事万物都包含阴阳两种属性', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '有了需要占卜的事情，人们把事先准备好的卜甲取出，放在火上炙烤。经过炙烤的龟甲，表面呈现出一些细微的裂纹，人们认为这是：', 'answer': '龟兆', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时期辅助秦孝公实施变法改革的一位政治家，他有三个不同称呼，下列哪一个选项在这三个称呼之外？', 'answer': '公子鞅', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '“爱 ” 是战国思想的主题之一。哪一派的思想家认为“爱”是主观的，因而是靠不住的', 'answer': '法家', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '上古时代的人们用乌龟的腹甲，经过特殊工艺处理，放在火上炙烤，然后根据龟甲显示出的兆纹判断吉凶。这种方法被称为：', 'answer': '龟卜', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '战国时期百家争鸣，下列思想家中哪一位不属于法家？', 'answer': '杨朱', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在战国时代，有一位思想家宣称“拔一毛利天下，不为”。这位思想家是：', 'answer': '杨朱', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '义理易学是中国易学的学术流派之一。“义”是卦象、卦辞的含义，“理”是道理、真理，义理易学就是着重探讨《易经》卦义和道理的学说。义理易学的代表人物之一是：', 'answer': '王弼', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '在战国早期，“兼爱”学说流行一时。这是哪个学派的主张？', 'answer': '墨家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在汉代，以京房为代表的易学家继承了“易传”的传统，发展出一套繁琐复杂的方法，用以推算祸福吉凶。这种方法被称为：', 'answer': '象数易学', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '我们今天所见的《易经》，是由多少卦、多少爻组成的：', 'answer': '六十四卦#三百八十四爻', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《易经》这部古老的文献，最初主要用于：', 'answer': '蓍筮', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '所谓的唯识百法，基于现代机器人科学的立场，涉及人类的：', 'answer': '以上三项都包括', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在中国，创立唯识宗的僧人是', 'answer': '玄奘', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于唯识学的五蕴，下面哪两个选项符合实际：', 'answer': '五蕴与人类的认知过程有关\x01五蕴学说与佛教有关', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子》说：“ 无思无虑始知道，无处无服始安道，无从无道始得道。 ” 《坛经》说：“ 无念为宗，无相为体，无住为本 。 ” 请问：这两种修行方法是否相似？', 'answer': '十分相似', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '基于现代学术视角，同样基于唯识学说，下面哪一个判断是不准确的：', 'answer': '“无为法”是可以感知的心理因素', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '禅宗修行采用了特殊的方法，这种修行方法的本质是', 'answer': '身在尘中，心不染尘', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《抱朴子内篇》是一部怎样的著作？', 'answer': '外丹道教著作', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于“心所有法”与“心不相应法”，下述判断中哪两个选项是正确的：', 'answer': '心所有法受心控制\x01心不相应法不受心控制', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '就体裁和形式而言，《道德经》主要是讲道理，《庄子》主要是讲故事。就思想内容而言，二者之间', 'answer': '基本相同', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《同微之赠别郭虚舟炼师五十韵》： “ 我为江司马，君为荆判司。俱当愁悴日，始识虚舟师……自负因自叹，人生号男儿。若不佩金印，即合翳玉芝。高谢人间世，深结山中期。 ” 此诗的作者是：', 'answer': '白居易', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '唯识学所谓“心法”，不包括下列哪两项：', 'answer': '眼睛\x01耳朵', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·齐物论》说：“以指喻指之非指，不若以非指喻指之非指也；以马喻马之非马，不若以非马喻马之非马也。天地一指也，万物一马也。”这段话的意思是：', 'answer': '人类看到的物体的样子，并非该物体自己的样子\x01人类看到的一匹马，并非这匹马自己的样子', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '禅宗的实际创始人是哪一位', 'answer': '慧能', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》讲 “ 德 ” ，所谓的 “ 德 ” 涉及哪两项内容：', 'answer': '善恶不分\x01是非不辨', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '西晋皇甫谧在给皇帝的上书中，描述了自己身体的状况： “ 隆冬裸袒食冰，当暑烦闷，加以咳逆，或若温疟，或类伤寒，浮气流肿，四肢酸重。于今困劣，救命呼噏，父兄见出，妻息长诀。 ” 这是由于他', 'answer': '服食丹药', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《百法明门论》讲唯识百法，下列哪一项与方、时、数等心理因素有关：', 'answer': '心不相应法', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·大宗师》记载：子桑户、孟子反、子琴张，三人相与友……莫逆于心。子桑户死，或编曲，或鼓琴，相和而歌曰：“嗟来桑户乎！嗟来桑户乎！而已反其真，而我犹为人猗！”这则寓言的蕴意是：', 'answer': '应该忘掉生死，抛弃情义', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《断酒肉文》出自下面哪位皇帝', 'answer': '梁武帝', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》说： “ 道可道，非常道。 ” 又说： “ 名可名，非常名。 ” 这里所谓的“道”涉及哪两项含义', 'answer': '道是不可言说的\x01道是超然的存在', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '中国古代有道教与佛教之争。道教的核心内容是“符水咒说以疗病”、炼丹成仙；佛教的核心内容是往生西天净土、入涅槃成佛。请回答：道教与佛教之间是怎样的关系？', 'answer': '二者都与生老病死相关\x01二者都试图解决生老病死问题', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '“ 嗟乎！诚得如黄帝，吾视去妻子如脱屣耳！ ” 发出此番感慨的是谁？', 'answer': '汉武帝', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《百法明门论》讲唯识百法，其中哪一项与愧、无愧、贪、无贪、嗔、无嗔、信、无信等心理因素有关：', 'answer': '心所有法', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·山木》记载： 阳子之宋，宿于逆旅。逆旅人有妾二人，其一人美，其一人恶。恶者贵而美者贱。阳子问其故，逆旅小子对曰：“其美者自美，吾不知其美也；其恶者自恶，吾不知其恶也。”这则寓言的两项蕴意是：', 'answer': '美与丑没有绝对标准\x01对美与丑的判断因人而异', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '佛教起源于哪个国家', 'answer': '古印度', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·大宗师》说：“ 真人之息以踵，众人之息以喉。 ”《庄子·齐物论》说：“ 万世之后而一遇大圣，知其解者，是旦暮遇之也。 ” 这里所说的真人、大圣，是指：', 'answer': '得道悟道之人', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '中国古代有所谓的 “ 三教 ” 之争。儒教宣扬君权神授、纲常神圣；道教宣扬治病或成仙；佛教宣扬西天净土或入涅槃成佛。请回答：儒教与道教、佛教之间是怎样的关系？', 'answer': '虽都称教，功能不同', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《太平经》中说： “ 无离舍宅及城郭，骨节相连为阡陌，筋主欲生坚城郭，脉主往来为骨络，肉在皮内为脉衣，神在中守司人善恶。 ” 根据这段诗文，人们相信自己的生命', 'answer': '由肉体和精神共同构成', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《百法明门论》讲唯识百法，下列哪一项与眼耳鼻舌身有关：', 'answer': '色法', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·齐物论》中有一则寓言： “ 昔者庄周梦为蝴蝶，栩栩然蝴蝶也。自喻适志与！不知周也。俄然觉，则蘧蘧然周也。不知周之梦为蝴蝶与？蝴蝶之梦为周与？ ” 其蕴意是：', 'answer': '人生如梦，生命无常', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '佛教最初传入中国的朝代是：', 'answer': '汉代', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '“ 知人者智，自知者明。”这句话出自哪一部古代文献：', 'answer': '《老子》', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉代儒术独尊以后，官方意识形态被称为“名教”、“儒教”，儒教的核心教义是纲常神圣、君权神授。这里所谓名教的功能是：', 'answer': '为社会稳定服务', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '根据中国道教产生的情形，下面哪一种表述接近历史实际：', 'answer': '道教的产生与人们对健康永生的愿望有关', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《百法明门论》讲唯识百法，下列哪一项与“八识 ” 有关：', 'answer': '心法', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '人们常说：科学是人类进步的利器。科学知识包含的两项要素是', 'answer': '感官经验\x01思维逻辑', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '顿悟修行与渐悟修行之间的对立，表现在哪两个方面：', 'answer': '修行戒定慧与不修戒定慧\x01强调出家与不强调出家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·在宥》记广成子说：“我守其一，以处其和。故我修身千二百岁矣，吾形未常衰。”这里所说的“守一”，是指', 'answer': '念头守住身体内部某一部位', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在汉代，邹鲁民间流行这样的谚语：“遗子黄金满籯，不如一经。”这条谚语的意思是：', 'answer': '父母应该培养孩子学习儒经', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《太平经》是东汉道教的产物，下面哪一种思想与它无关', 'answer': '人体生病是由于没有注意养生保健', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '唯识学在中国的传播，与下述哪一项没有直接关系：', 'answer': '慧能', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子》说：“有真人而后有真知。”这里所说的 “ 真知 ” 是', 'answer': '悟道后的知识', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于早期禅宗与早期净土宗之间的思想对立，下述哪一种说法是错误的：', 'answer': '早期净土宗主张往生西方净土，早期禅宗也主张往生西方净土', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》说： “含德之厚，比于赤子。”“专气致柔，能婴儿乎？”“我魄未兆，若婴儿未孩。”“知其雄，守其雌，为天下蹊。为天下蹊，常德不离，复归于婴儿。” 这里借用 “ 赤子 ” 、 “ 婴儿 ” 为喻，是为了表明哪两项诉求：', 'answer': '对于修道来说，要有一颗愚钝之心\x01对于修道来说，要心地纯洁而不染', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '东汉大臣杨震在给皇帝的一篇上书中说：“阿母王圣出自贱微……扰乱天下，损辱清朝，尘点日月。《书》诫牝鸡牡鸣，《诗》刺哲妇丧国。昔郑严公从母氏之欲，恣骄弟之情，几至危国，然后加讨。《春秋》贬之，以为失教。夫女子小人，近之喜，远之怨，实为难养。《易》曰：‘无攸遂，在中馈。’言妇人不得与于政事也。宜速出阿母，令居外舍……令野无《鹤鸣》之叹，朝无《小明》之悔，《大东》不兴于今，《劳止》不怨于下。拟踪往古，比德哲王，岂不休哉！”这篇奏章大量引用经文是为了表明：', 'answer': '王圣不应该居住在宫廷', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于符箓道教，下面哪两个选项是正确的', 'answer': '符箓道教是自发产生的\x01符箓道教的信徒大多属于下层民众', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于唯识学，下面的表述中最全面的一项是：', 'answer': '唯识学与其他三项内容都有关系', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子》宣扬齐生死、齐是非、齐万物。这里所表达的意思是：', 'answer': '对于得道悟道者来说，一切差别都是虚妄的', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '为了修禅，慧能向弟子传授了一套回答别人问题的策略，这套策略被称为“三十六对”。按照这一策略，有人问：“今天的天气热吗？ ” 下面哪一种回答符合其意：', 'answer': '今天不冷', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》有不同的版本，下面哪两种版本与老子生活的时代比较接近', 'answer': '郭店楚简《老子》\x01马王堆帛书本《老子》', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '东汉的官方文献《白虎通义》说：“君臣、父子、夫妇，六人也。所以称三纲何？一阴一阳谓之道，阳得阴而成，阴得阳而序，刚柔相配，故六人为三纲。 ” 从这里可以看出：', 'answer': '三纲被说成是阴阳之道的体现\x01君为臣纲，父为子纲，夫为妻纲，被认为具有天然合理性', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '张角传播太平道给信徒治病。太平道治病的手段包括哪两项', 'answer': '跪拜首过#符水咒说', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·列御寇》记庄周曰： “ 秦王有病召医，破痈溃痤者得车一乘，舐痔者得车五乘，所治愈下，得车愈多。 ” 这反映了庄周是一个', 'answer': '鄙弃名利之人', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '慧能说： “ 若真修道人 ， 不见世间过 ； 若见 世间 非 ， 自非却是左 。 ” 这句话的意思是', 'answer': '修道者应该心无是非', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '先秦诸子从宏观上说分为两大阵营：一大阵营立足于社会；另一大阵营立足于自然。立足于自然的学派有哪两家：', 'answer': '道家\x01阴阳家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '东汉的官方文献《白虎通义》说： “帝王者何？号也。号者，功之表也，所以表功明德，号令臣下者也。德合天地者称帝，仁义合者称王，别优劣也。《礼记·谥法》曰：‘德象天地称帝，仁义所在称王。’”从这里可以看出：', 'answer': '在东汉，帝王被极大神圣化了\x01在东汉，帝王代表着天地道德', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '符箓道教与丹鼎道教是中国本土宗教的两大类型。下列与符箓道教有关的选项是：', 'answer': '太平道#五斗米道', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·逍遥游》说： “ 至人无己，神人无功，圣人无名。 ” 庄子奉行 “ 三无 ” 主义，是因为在他看来：', 'answer': '功名是修行的障碍', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《坛经》中有 “ 三无 ” 修禅法，即 “ 无念为宗，无相为体，无住为本 ” 。下面的解释正确的一项是：', 'answer': '应该心无杂念', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '先秦诸子从宏观上说分为两大阵营：一大阵营立足于社会；另一大阵营立足于自然。立足于社会的学派有哪两家：', 'answer': '儒家\x01法家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《论语撰考谶》说：“叔梁纥与徵在祷尼丘山，感黑龙之精，以生仲尼。”从这条史料我们可以得出两项认识：', 'answer': '《论语撰考谶》认为孔子的出生是神圣事件\x01孔子被暗示为黑龙之子', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '五斗米道是东汉晚期出现的宗教组织。五斗米道有一种别具特色的修道方法，这种方法是', 'answer': '净室思过', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·齐物论》论 “ 齐物 ” ，主旨在于', 'answer': '基于道的立场，万物无别', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《坛经》中有一首 偈子，内容是：“菩提本无树，明镜亦非台。佛性常清净，何处有尘埃。”大概意思是：', 'answer': '修禅应该心不染尘', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子》记载： 东郭子问于庄子曰：“所谓道，恶乎在？”庄子曰：“无所不在。”东郭子曰：“期而后可。”庄子曰：“在蝼蚁。”曰：“何其下邪？”曰：“在稊稗。”曰：“何其愈下邪？”曰：“在瓦甓。”曰：“何其愈甚邪？”曰：“在屎溺。”东郭子不应。在上述史料中，“道”最符合下述哪一项：', 'answer': '“道”是构成宇宙万物的最微观元素', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉代的独尊儒术，给当代中国的启示是哪两项', 'answer': '任何社会的和谐稳定，都离不开道德建设\x01法律与道德二者相辅相成，不可或缺', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '东汉末年发生的太平道事件，其创始人是', 'answer': '张角', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '根据《庄子》一书的记载，楚威王“以千金”聘谁为相？', 'answer': '庄周', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《坛经》中有一首 偈子，内容是： “ 身是菩提树，心如明镜台。时时勤拂拭，莫使有尘埃。 ” 大体意思是', 'answer': '修禅应该清除内心的杂念', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》说：“道生一，一生二，二生三，三生万物。”这一语境中的“道”，是指：', 'answer': '世界万物的起源', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉代的尊儒读经思潮，对社会的影响巨大，其中的两项是', 'answer': '读经做官\x01崇尚道德', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '外丹道教，就是期望通过服丹改变身体的生理性质，进而使自己长生不死的道教流派。下列哪两个人曾经信奉外丹道教？', 'answer': '梁武帝\x01白居易', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '据《庄子·齐物论》记载： 南郭子綦隐机而坐，仰天而嘘，答焉似丧其耦。颜成子游立侍乎前，曰：“何居乎？形固可使如槁木，而心固可使如死灰乎？今之隐机者，非昔之隐机者也？”子綦曰：“偃，不亦善乎，而问之也！今者吾丧我，汝知之乎？ ” 在这段史料中，南郭子綦“形如槁木，心如死灰 ” 的直接原因是：', 'answer': '修行道术', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在净土宗教义中，信徒若要获得拯救，必须依赖于一位大神，这位大神是', 'answer': '阿弥陀佛', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》说：“ 圣人之治：虚其心，实其腹；弱其志，强其骨。 ” 又说： “圣人处无为之事，行不言之教。” 这里所说的圣人，与下列哪一个选项最接近：', 'answer': '无为而无不为', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉代经学与政治的关系，下面的表述比较符合实际情形的是哪两项', 'answer': '经学介入司法活动，使法律具有了弹性空间\x01人们根据现实的需要从经典中寻找依据', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '方仙道就是信奉神仙、并渴望自己长生不死的传统信仰。下列哪一个人物曾经涉足方仙道？', 'answer': '秦始皇', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子》书中描述了“真人”、“至人”和“神人”，与这些人的行为相反的一个选项是：', 'answer': '为亲人和朋友的去世而痛苦万分', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '佛教宣扬入涅槃，涅槃所在的位置是：', 'answer': '在人的内心深处', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》说：“ 圣人抱一为天下式。 ” 又说： “载营魄抱一，能无离乎？” 在这里，“抱一”的直接目的是：', 'answer': '修养魂魄', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉代经学具有双重属性，这双重属性分别是', 'answer': '学术性\x01政治性', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '东汉后期，民间自发地出现了两种宗教，一个是太平道，另一个是五斗米道。他们采用的修道方法不包括下列哪一项：', 'answer': '炼丹', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '欧洲哲学家康德提出了“物自体”学说。早在二千年前，提出类似概念的中华先贤是哪一位', 'answer': '庄子', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于唐代的佛教修行，下面的表述中哪一个选项是错误的：', 'answer': '念佛属于天台宗的修行方法', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》说：“见素抱朴，少私寡欲。”与这一理念最不相符的选项是', 'answer': '人不为己，天诛地灭', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '中国古代的文献，有一类被尊奉为“经”。关于“经”，下述选项中的哪两项表述比较恰当', 'answer': '战国时代，不同学派的经典文献都可以称为经\x01儒术独尊以后，儒家的部分经典被尊称为经', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '庄子说“马非马”，公孙龙说“白马非马”。下述哪一个判断最具学术性 ？', 'answer': '二者内容不同，庄子讲修道，公孙讲逻辑', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '佛教讲三皈五戒，五戒中不包括的内容是', 'answer': '婚姻', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《道德经》主张：“为无为，事无事，味无味。”所谓的“为无为”，最恰当的理解是：', 'answer': '“为无为”就是不做俗事', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '儒家经学对于汉代社会产生了巨大的影响，请选择其中妥当的两项：', 'answer': '引导了社会道德\x01促进了社会的孝道', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子·齐物论》说： “ 物无非彼，物无非是。自彼则不见，自知则知之。故曰：彼出于是，是亦因彼。 ” 关于“彼”与“是”的关系，下面哪一个选项与《庄子》的论述不一致：', 'answer': '人类对外物的认知是客观的、科学的', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '南北朝隋唐时期发生了所谓的 “ 三武一宗法难 ” ，造成此类事件屡屡发生的两个根本原因是', 'answer': '官方认为佛教的过度传播对政治有危害\x01官方认为佛教的过度传播对经济有影响', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '与庄子辩论“子非鱼，安知鱼之乐”的人物是：', 'answer': '惠施', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉魏时期佛教在中国传播，下列哪一项内容与此无关？', 'answer': '张鲁传播五斗米道', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉代立五经博士，尊崇五经，在政治实践中往往“以经义决策”。其中，有一种经典成为裁决案情的依据，这种经典是', 'answer': '《春秋》', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '《庄子》书中提到的修心之术,不包括下列哪一项？', 'answer': '修身齐家', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '佛教是外来宗教，但佛教喧宾夺主，成为中国宗教的主流，两个主要的原因是：', 'answer': '儒教的教义未能满足人们关注健康的心理需要#太平道被官方禁止，使渴求心理健康的百姓走向佛教', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在汉代，无论是皇帝的诏书还是大臣的奏章，经常引经据典，他们这么做的主要目的是', 'answer': '表明自己的主张言而有据符合圣道', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': True, 'problem': '在汉代，如果经师们对于经典的含义有不同的理解，谁有最终裁定权？', 'answer': '皇帝', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '孔子由凡人变成圣人，与古代的什么思潮直接相关？', 'answer': '谶纬思潮', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '关于汉代官方经学，错误的理解是 ：', 'answer': '汉代经学是独立于政治之外的纯粹学术', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '从内容来看 ，《尚书》是一部：', 'answer': '上古时代档案文献汇编', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '汉代的五经指的是', 'answer': '《诗》、《书》、《礼》、《易》、《春秋》', 'id': '1', 'course_name': '中华国学'}
+{'success': True, 'problem': '在汉代，官方有 “ 经 ” ，有 “ 经学 ” 。最能反映“经”与“经学”关系的一个选项是', 'answer': '经学是对经的解释和发挥', 'id': '1', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': '中华国学'}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': True, 'problem': '中国古代社会当中民事和刑事是分开的。', 'answer': '错', 'id': '1', 'course_name': ''}
+{'success': True, 'problem': '传统法律文化的特征的特征是：刑罚主义、礼教主义、权力主义、与宗教相分离。', 'answer': '对', 'id': '1', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': False, 'message': '参数不完整', 'course_name': ''}
+{'success': True, 'problem': 'BMI中国参考标准的正常范围是', 'answer': '18.5≤BMI≤23.9', 'id': '1', 'course_name': '健身起跑线'}
+{'success': False, 'message': '参数不完整', 'course_name': '健身起跑线'}
+{'success': True, 'problem': 'BMI中国参考标准的正常范围是', 'answer': '18.5≤BMI≤23.9', 'id': '1', 'course_name': '健身起跑线'}
+{'success': False, 'message': '参数不完整', 'course_name': '健身起跑线'}
+{'success': True, 'problem': 'BMI中国参考标准的正常范围是', 'answer': '18.5≤BMI≤23.9', 'id': '1', 'course_name': '健身起跑线'}
+{'success': False, 'message': '参数不完整', 'course_name': '健身起跑线'}
+{'success': True, 'problem': 'BMI中国参考标准的正常范围是', 'answer': '18.5≤BMI≤23.9', 'id': '1', 'course_name': '健身起跑线'}
+{'success': False, 'message': '参数不完整', 'course_name': '健身起跑线'}
+{'success': True, 'problem': '笔试的下一步是什么？', 'answer': '面试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': 'STAR法则中的“S”指的是：', 'answer': 'Situation', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '网申的三大法宝不包括：', 'answer': '所有优势都写到简历上', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '网申信息来源不包括：', 'answer': '路边小广告发布', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于简历撰写技巧原则的是：', 'answer': '具体性', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '笔试的下一步是什么？', 'answer': '面试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': 'STAR法则中的“S”指的是：', 'answer': 'Situation', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '网申的三大法宝不包括：', 'answer': '所有优势都写到简历上', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '网申信息来源不包括：', 'answer': '路边小广告发布', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于简历撰写技巧原则的是：', 'answer': '具体性', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '将OMG原则放入漏斗中，最上方的是：', 'answer': 'Objective', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '用人单位选人时的原则是：', 'answer': '最适合的', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '立即行动（Go for it）时如果行不通时，你应该：', 'answer': '相信任何行为都有积极意义', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在求职 OMG原则里，M代表的意义是：', 'answer': '匹配', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '电话面试后通常会进行哪个环节？', 'answer': '笔试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '往往容易被应届毕业生写简历时忽略的项目是____.', 'answer': '求职意向', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '写简历应该遵循的步骤是?', 'answer': '锁定目标#匹配资源#立即行动', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在求职 OMG原则里，O代表的含义是_____.', 'answer': 'Objective', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '求职的第一步是什么？', 'answer': '写求职简历', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '何时开始准备求职是最好的？', 'answer': '大一下学期', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列哪一项招聘途径视频中未提到？', 'answer': '报纸', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列说法错误的是( ) 下列说法错误的是( )', 'answer': 'BIM的理论基础主要起源于建筑行业', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在校园宣讲会不应该做的是：', 'answer': '安静坐在一旁', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列哪一个不属于招聘网站？', 'answer': '58同城', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '好工作的考量因素不包括：', 'answer': '别人让你做的', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列关于校园宣讲会错误的是', 'answer': '有了目标的同学没必要去宣讲会', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '目前被认为是求职成功率最高的信息来源是', 'answer': '师兄师姐', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '搜集就业信息时，互联网的缺点是', 'answer': '信息量太大，缩小范围困难', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于大型招聘会的特点是', 'answer': '只进行社会招聘', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于职业测评的考量因素', 'answer': '学历', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '关于写简历的三三制原则，下列说法错误的是：', 'answer': '每次设置三家目标公司', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '技能类型不包括：', 'answer': '人际交往技能', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '简历中的过往经历不包括以下哪个方面：', 'answer': '打工经历', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列对于简历制作不正确的是：', 'answer': '只使用一张通用简历', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '简历不通过的原因不包括：', 'answer': 'HR没看到', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在简历OMG的四个关键字分别是', 'answer': '知#职#止#智', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '简历最好写多少页', 'answer': '一页', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '什么时候发简历最好', 'answer': '没有特别的讲究，但是注意deadline', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于 OMG中原则的是', 'answer': '关键字原则', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '简历上的照片应该是', 'answer': '证件照', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列关于回答职业目标类问题不正确的是：', 'answer': '写清目标职位', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '“描述一个你发起的最创新的改变，以及你怎么完成的？”属于哪类开放式问题？', 'answer': '成就故事类', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': 'STAR法则中不包括：', 'answer': 'Activity', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '网申的应用场景不包括：', 'answer': '笔试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '填网申时应该注意：', 'answer': '活动经历尽量夸大', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '关于网申，以下做法不正确的是', 'answer': '把别人的丰功伟绩都套用在自己身上', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '完成网申正确的做法是', 'answer': '针对不同公司填写合适的内容', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '网申受HR欢迎的原因是?', 'answer': '网申的简历方便保存\x01网申规范了应聘者提交的应聘资料\x01网申效率高,可以便捷地进行数据分析', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '网申中， 常见的开放式问题不包括', 'answer': '专业水平测试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下不属于网申的优点的是', 'answer': '有了网申，就可以省去准备简历这一环节', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列关于“穷之以词辩，而观其辩”错误的是：', 'answer': '面试者要擅辩', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '综合测评主要考察被测评者的特点不包括', 'answer': '职业规划', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列关于业务面试说法错误的是', 'answer': '考察随机应变能力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '集体面试的流程不包括：', 'answer': '现场笔试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试不包括下面哪种类型', 'answer': '多对多', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下哪种方法最适合考察应聘者的心理素质', 'answer': '告之以祸难，而观其勇', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '关于 “问之以是非，而观其志。”说法错误的是（）', 'answer': '回答时一切以迎合面试官为核心，争取拿到offer', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以华为的面试流程为例 , 研发类和财务类岗位的第一个环节 是', 'answer': '上机考试或笔试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列关于面试分类的说法错误的是', 'answer': '多对一指的是无领导小组讨论', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列关于面试的说法错误的是', 'answer': '目前的技术还无法解决远程面试的问题', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '不属于给自己“加戏”的方法是', 'answer': '哗众取宠', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': 'STAR结构不包括：', 'answer': '活动', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '自我介绍时对于 1- 3 - 1 格式不正确的是：', 'answer': '一段兴趣爱好的介绍', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试官要求自我介绍的原因类型不包括：', 'answer': '十分感兴趣型', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列关于自我介绍不正确的是：', 'answer': '自我介绍可以免去面试官看简历', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在自我介绍面试环节中，以下做法错误的是', 'answer': '自我介绍的时候总是说出一些过于随意甚至低俗的语言', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '自我介绍时的谈吐，应该记住3个P不包括', 'answer': 'Pride', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下不属于面试官进行自我介绍环节面试的目的是', 'answer': '好奇', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在自我介绍1-3-1结构中，不属于最后“1”的是', 'answer': '自曝短处', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在进行自我介绍时，以下做法不正确的是', 'answer': '语言浮夸', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在群面中，对于高存在感、低贡献值的人不应该：', 'answer': '积极发言', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': 'leader需要掌握 的 本领 不包括：', 'answer': '展现自我：抛砖引玉、总结发言', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': 'leader的任务不包括：', 'answer': '提醒时间', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于群面“Objective”的是：', 'answer': '自我意识', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于群面特点的是：', 'answer': '不限时间', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下哪种做法对从无领导小组讨论中脱颖而出没有帮助', 'answer': '讨论中始终坚持自己的观点，不受他人影响', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在群面中提出了一个很好的金点子，但没有通过面试，原因不可能是', 'answer': '没有争取到代表小组总结陈述的机会', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下面不属于群面要考察 leader的点', 'answer': '是否有很多金点子，有创意', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下哪个角色 可能最早确定人选', 'answer': '时间官', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下对 “ 为什么越来越多的公司选择群面 ” 的解释不正确的是', 'answer': '可以节省人工', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试前哪一项是不正确的', 'answer': '迟到没关系', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '回答面试问题的关键词有哪些', 'answer': '匹配\x01落脚点', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '讲自己失败的经历不包括哪些内容', 'answer': '抱怨和吐槽', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试中讲故事的star结构包括哪几个方面', 'answer': '任务;情境;行动;结果', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '如何回答与职业规划相关问题', 'answer': '职业规划与应聘的公司相关\x01为应聘做了充足功课\x01不断暗示自己适合这份工作', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '当被问及到为什么要选我们公司为什么选这个职位的问题时，不恰当的回答是', 'answer': '因为我的家人非常希望我做这份工作', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '当被问及到期望的薪资的问题时，不恰当的回答是', 'answer': '对工资没有要求，我能来工作就好', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试时，讲一个好的故事具备的基本要素不包括', 'answer': '展示', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '被问及职业规划和职业目标时，以下回答不正确的是', 'answer': '不断进行学习深造并表示出自己有想考研的想法', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下到达面试地点最好的时间是', 'answer': '提前5-10分钟', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试官为什么会问感情问题', 'answer': '评估稳定度', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试官提问加班是为了出于什么目的', 'answer': '考察吃苦耐劳和奉献精神', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '用人单位的行为测试考察的主要是', 'answer': '执行力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '如果被问到确实不会的问题可以怎么做', 'answer': '再次确认问题\x01诚实承认不足\x01举一反三，展示思路', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试官告诉你：很遗憾，我觉得你和我们公司理念不符，不能录用时，他的目的不可能是什么', 'answer': '逗你玩', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '当面试官问你对加班的看法时，以下说法正确的是', 'answer': '并不意味着一定要加班，面试官希望看到应聘者愿意对公司的奉献度', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '关于面试中遇到比较奇葩的智力问题，以下说法不正确的是：', 'answer': '直接放弃作答', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试官 告诉你 ： 很遗憾，我觉得你和我们公司理念不符 ， 不能录 用 时，错误的 做法 是', 'answer': '向面试官抗议，当面质疑面试的公平公正', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '行为面试考察的 不包括 （）', 'answer': '考察学习能力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下哪个属于行为面试（情景题）', 'answer': '压力面试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '工作前五年要学习的是', 'answer': '如何赚钱', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '如何判断面试公司是否适合自己？', 'answer': '观察整个招聘流程是否严谨规范\n\n观察招聘人员素质如何\n\n观察公司办公环境和氛围是否是自己想要的', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '电话面试最后是否需要感谢 HR 的来电', 'answer': '需要', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '怎么样做到电话面试中好好说话', 'answer': '语速、音量适中\x01先说“你好”\x01不要背稿子\x01不要长篇大论', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列哪项不属于电话面试的硬件准备', 'answer': '不带手机', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于电话面试的优点的是', 'answer': '降低了面试难度，应聘者都可以成功通过电话面试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于电话面试的小技巧的是', 'answer': '衣装整洁', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '如果用人单位打电话来对你进行面试，而你正在公交车上，最好的处理办法是', 'answer': '与ＨＲ预约一个稳妥的时间，保证你可以找到一个安静的环境进行面试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '进行电话面试时不正确的做法是', 'answer': '电话面试时可以主动询问入职后的薪资水平', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '进行电话面试时，正确的接电话姿势是', 'answer': '正襟危坐，面带微笑', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '为什么说江泽民的新闻宣传思想肃清了资产阶级自由化思潮的影响，确保了我国新闻事业的社会主义方向？', 'answer': '阐明了社会主义新闻自由与资本主义新闻自由的本质区别;阐明了我国新闻事业的性质、地位和作用;阐明了党性和人民性的关系问题;重申了新闻事业必须为社会主义服务和为人民服务的方针', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '江泽民指出，可以说舆论工作就是思想政治工作，是什么所系的工作？', 'answer': '党和国家前途命运', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': False, 'message': '参数不完整', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '为什么说江泽民的新闻宣传思想肃清了资产阶级自由化思潮的影响，确保了我国新闻事业的社会主义方向？', 'answer': '阐明了社会主义新闻自由与资本主义新闻自由的本质区别;阐明了我国新闻事业的性质、地位和作用;阐明了党性和人民性的关系问题;重申了新闻事业必须为社会主义服务和为人民服务的方针', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '江泽民指出，可以说舆论工作就是思想政治工作，是什么所系的工作？', 'answer': '党和国家前途命运', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'answer': '该题目还未收录，或者您输入的题目带有特殊符号，如：{}【】@#￥&', 'id': '1', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': False, 'message': '参数不完整', 'course_name': '马克思主义新闻观及原著选读'}
+{'success': True, 'problem': '面试中回答问题要注意什么', 'answer': '语气不可像背诵课文\x01言之有物，回答要有重点\x01表现出真实的自我', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '看面试官时哪一方式是正确的', 'answer': '目光要“定”', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试进门时的注意事项有哪些', 'answer': '敲门敲三声“当当当”;轻轻关门;有门一定要敲', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面试时仪容仪表方面不正确的是', 'answer': '越夸张越好', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '仪容仪表最重要的是什么', 'answer': '干净', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '1.下列关于面试着装的配饰，说法正确的是（）', 'answer': '女士的配饰不宜过多，有时候一条丝巾就够了', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '1.面试中，以下哪些行为是不对的（）', 'answer': '在等候面试的过程中可以稍微放松，按照自己喜欢的姿势随性而坐，并可与旁人大声攀谈', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '1.关于女士着装的说法，正确的是（）', 'answer': '妆容打扮可根据应聘岗位来适当准备', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '关于 男士西服，说法错误的是 （）', 'answer': '西服可以选择上半身浅色，下半身深色的搭配\x01穿深色西服时，多数人会选择白色百搭的袜子\x01但凡穿穿西装，领带一定要打，并且尽量挑颜色艳丽以综合整体气质', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '1. 下列 关于面试礼仪说法正确的是（）', 'answer': '着装上遵守三色原则', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '学生如何在各自的企业中成长得更好，嘉宾给出了什么建议', 'answer': '把企业当成是自己家一样对待\x01多学多问多看，提高自己的核心竞争力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '外企中初面筛选的主要是什么？', 'answer': '简历真实性\x01硬性条件\x01个人素养\x01沟通', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '不属于外企常用的三个面试形式的是', 'answer': '行为测试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下不属于企业选择应届大学生的原因的是', 'answer': '有强烈的自信心', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '嘉宾所说的外企注重的通用能力最重要的三个是', 'answer': '意识转化准备\x01沟通表达能力\x01继续学习能力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '访谈中关于外企与民企福利的说法,以下错误的是( )', 'answer': '中小民企:没有福利待遇', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列说法中，哪种说法是不正确的（ ）。', 'answer': '皿字底中间两短竖均匀分隔，结字时下横画为主笔，可粗壮一些，能平稳地托住上部。', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '自身要求与招聘条件不符,还可能被录用么,以下说法错误的是( )', 'answer': '不可能。首先要认清自己,不能盲目自信与浪费时间', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '1. 在访谈中，民企喜欢应聘者具备的素质中，以下哪个嘉宾没有提到', 'answer': '工作热情', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '在访谈中,外企喜欢应聘者具备的素质中,以下哪个嘉宾没有提到()', 'answer': '做事及时性', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '国企和公务员招聘环境是否公平', 'answer': '基本公平', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '国企和公务员共同看重的一点是个人能力，这一说法是否正确', 'answer': '正确', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '哪些实践活动在进入国企和公务员队伍时更受青睐', 'answer': '多参加社会实践;到目标行业实习;多参加社团活动;参加职业技能培训', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '针对提高学习能力，国企和公务员单位在制度层面有哪些措施', 'answer': '国企：学习能力纳入绩效考核\x01公务员：定期组织培训\x01国企：奖励激励学习', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下不属于国企对员工的素质要求的是', 'answer': '写作能力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '关于国企员工和公务员的发展空间，以下说法错误的是', 'answer': '公务员发展等于“熬年头”', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '公务员 招聘是否存在不公平现象，说法错误的是', 'answer': '不能期望公平，萝卜招聘和内定现象很难杜绝', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '以下 哪种面试方式在国企面试中没有提及', 'answer': '多对一面试', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '访谈中,嘉宾提到笔试占公务员考试的多少比例()', 'answer': '50', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '嘉宾提到的公务员应聘者应具备的素质,不包括( )', 'answer': '学习能力好', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '对从事科研工作，嘉宾最后给出了什么建议', 'answer': '要有大局规划意识\x01多发论文', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '高校对师资博士后有哪些福利', 'answer': '等同于博士直接入职待遇\x01所在城市基金委会提供一部分福利', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '面对研究所和高校的“萝卜招聘”可以怎么做', 'answer': '提高自己的能力，让自己成为无可替代的“萝卜”', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '下列不属于进入研究所必须的能力的是', 'answer': '打架能力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '进入高校比较重要的能力有哪些？', 'answer': '团队协作能力\x01师德素质\x01发展能力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '科研院所更看中毕业生什么能力？', 'answer': '主动学习能力', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '高校一般有多长时间的考察期？', 'answer': '2年', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '想进高校和科研院所，在大学期间可以做哪些准备，下列不正确的是？', 'answer': '多做点兼职', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '高校招聘老师的学历普遍要求——以上', 'answer': '博士', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '学校以什么为中心作为招聘要求？', 'answer': '学位', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': True, 'problem': '求职的四大信念有（）', 'answer': '相信你一定是OK的#相信你已具备所需的所有资源#相信任何行为都有积极意义#相信你有能力作出改变', 'id': '1', 'course_name': '求职OMG——大学生就业指导与技能开发'}
+{'success': False, 'message': '参数不完整', 'course_name': '求职OMG——大学生就业指导与技能开发'}
